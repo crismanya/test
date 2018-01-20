@@ -1,10 +1,10 @@
-<item><title>TIERRA DE GIGANTES</title>
+<item><title>[B]Tierra de Gigantes[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR lime]  [makelist.param3][/COLOR]</title>
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://imagessl7.casadellibro.com/m/ig/7/2130217.jpg</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyMTE5MDc1Nl5BMl5BanBnXkFtZTgwNjg4Mjk0MDI@._V1_SY1000_CR0,0,794,1000_AL_.jpg</fanart>
@@ -36,13 +36,13 @@
 <fanart>https://image.tmdb.org/t/p/original/gaXPD7DsGBvoS4EoPHWSTLaRCiQ.jpg</fanart>
 </item>
 
-<item><title>La Isla de Gilligam</title>
+<item><title>[B]La Isla de Gilligam[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR lime]  [makelist.param3][/COLOR]</title>
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://cdn-static.sidereel.com/tv_shows/47285/giant_2x/77345-2.jpg</thumbnail>
         <fanart>http://static.t13.cl/images/sizes/1200x675/mgr_630_isla_gilligan.jpg</fanart>
