@@ -188,3 +188,42 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3MzMwODM4N15BMl5BanBnXkFtZTcwMDM2Njc0MQ@@._V1_.jpg</thumbnail>
         <fanart>http://gianmarcojoseth.com/images/Capturas/hulk782.jpg</fanart>
 </item>
+
+<item><title>[B]EL GRAN HEROE AMERICANO[/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwOTc3OTk5Nl5BMl5BanBnXkFtZTcwOTYwODcyMQ@@._V1_.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/4TOCKQJ8mt7DLlldAVeHb1NVm6O.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/el-gran-heroe-americano-21546/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/el-gran-heroe-americano-21546/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/original/d4EAFnKwFgaMLF28viJ2hHXMNQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yHZ58U8VRq9DNjKKyLvZgfioSCg.jpg</fanart>
+</item>
+
