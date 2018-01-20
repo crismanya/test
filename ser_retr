@@ -149,3 +149,41 @@
 <thumbnail>https://image.tmdb.org/t/p/original/7chAncTlx1cKD2eDEGKLhzp6S6g.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gD5QB1tvf7j1VadNiMcjypmhj04.jpg</fanart>
 </item>
+
+<item><title>[B]El Increible HULK [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://image.tmdb.org/t/p/original/kLk6al2xPF3zw8nUKbhr2N67iUw.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/mu3QfT8qFStgitFSCF5HA2Or6jn.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/llupeco/el-increible-hulk-espanol-latino-22125/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/llupeco/el-increible-hulk-espanol-latino-22125/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/original/kLk6al2xPF3zw8nUKbhr2N67iUw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mu3QfT8qFStgitFSCF5HA2Or6jn.jpg</fanart>
+</item>
