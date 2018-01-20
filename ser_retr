@@ -111,3 +111,41 @@
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/184082/p184082_b_v8_aa.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/08/chips-01.jpg</fanart>
 </item>
+
+<item><title>[B]La Fuga de Colditz[/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://image.tmdb.org/t/p/original/7chAncTlx1cKD2eDEGKLhzp6S6g.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/gD5QB1tvf7j1VadNiMcjypmhj04.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/la-fuga-de-colditz-34629/list,1,22</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/frankiepentangelli/la-fuga-de-colditz-34629/list,1,22</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/original/7chAncTlx1cKD2eDEGKLhzp6S6g.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gD5QB1tvf7j1VadNiMcjypmhj04.jpg</fanart>
+</item>
