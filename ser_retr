@@ -121,7 +121,7 @@
         <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>https://image.tmdb.org/t/p/original/7chAncTlx1cKD2eDEGKLhzp6S6g.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/gD5QB1tvf7j1VadNiMcjypmhj04.jpg</fanart>
+        <fanart>https://image.tmdb.org/t/p/original/9DuHSC8vs9vYQk0GK1FtqGrP8VJ.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/frankiepentangelli/la-fuga-de-colditz-34629/list,1,22</page>
