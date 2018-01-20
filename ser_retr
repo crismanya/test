@@ -185,6 +185,6 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://image.tmdb.org/t/p/original/kLk6al2xPF3zw8nUKbhr2N67iUw.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mu3QfT8qFStgitFSCF5HA2Or6jn.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
