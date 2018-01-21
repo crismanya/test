@@ -533,50 +533,12 @@ item>
 </item>
 
 
-item>
-<title>[COLOR lime] La Dimension Desconocida 1985 [/B]</title>
-<link>$doregex[makelist]</link>
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>http://4.bp.blogspot.com/-SztCjuuQHpI/UUfGRvqtpSI/AAAAAAAAVz8/SfUr4WZVgeU/s1600/la+dimension+desconocida.jpg</thumbnail>
-        <fanart>https://img.youtube.com/vi/KF-yh4mU6ps/0.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/la-dimension-desconocida-1985-completa-50311/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/la-dimension-desconocida-1985-completa-50311/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-SztCjuuQHpI/UUfGRvqtpSI/AAAAAAAAVz8/SfUr4WZVgeU/s1600/la+dimension+desconocida.jpg</thumbnail>
-<fanart>https://img.youtube.com/vi/KF-yh4mU6ps/0.jpg</fanart>
-</item>
 
 
 
 
 <item>
-<title>La Dimension Desconocida 1959 [/B]</title>
+<title>[B]La Dimension Desconocida 1959 [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -659,7 +621,7 @@ item>
 
 
 <item>
-<title>Autopista hacia el cielo: Temporada 1[/B]</title>
+<title>[B]Autopista hacia el cielo: Temporada 1[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -698,7 +660,7 @@ item>
 </item>
 
 <item>
-<title>Autopista hacia el cielo: Temporada 2[/B]</title>
+<title>[B]Autopista hacia el cielo: Temporada 2[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -737,7 +699,7 @@ item>
 </item>
 
 <item>
-<title>Autopista hacia el cielo: Temporada 3[/B]</title>
+<title>[B]Autopista hacia el cielo: Temporada 3[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
