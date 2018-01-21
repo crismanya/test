@@ -576,7 +576,7 @@ item>
 
 
 <item>
-<title>[COLOR lime] La Dimension Desconocida 1959 [/B]</title>
+<title>La Dimension Desconocida 1959 [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -659,7 +659,7 @@ item>
 
 
 <item>
-<title>[COLOR lime] Autopista hacia el cielo: Temporada 1[/B]</title>
+<title>Autopista hacia el cielo: Temporada 1[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -698,7 +698,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR lime] Autopista hacia el cielo: Temporada 2[/B]</title>
+<title>Autopista hacia el cielo: Temporada 2[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -737,7 +737,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR lime] Autopista hacia el cielo: Temporada 3[/B]</title>
+<title>Autopista hacia el cielo: Temporada 3[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
