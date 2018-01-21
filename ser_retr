@@ -2758,6 +2758,11 @@ item><title>[B]DALLAS [/B]</title>
 <fanart>https://i.ytimg.com/vi/8e54fi-AZVY/maxresdefault.jpg</fanart>
 </item>
 
+<item>
+<item><title>[B]Walker Texas Ranger[/B]</title>
+<link>http://ignorame</link>
+  <externallink>https://raw.githubusercontent.com/crismanya/test/master/walkerranger</externallink>
+</item>
 
 <item><title>[B]Walker Texas Ranger[/B]</title>
 <link>$doregex[makelist]</link>
