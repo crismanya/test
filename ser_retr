@@ -575,7 +575,7 @@ item>
 
 
 
-item>
+<item>
 <title>[COLOR lime] La Dimension Desconocida 1959 [/B]</title>
 <link>$doregex[makelist]</link>
 
@@ -588,7 +588,7 @@ item>
         <fanart>https://3.bp.blogspot.com/-0SW0R0icXfQ/UvVk0AFOAUI/AAAAAAAAG4o/OmXcGjI7rXM/s1600/Soraia-Magalh%C3%A3es-biblioo-al%C3%A9m-da-imagina%C3%A7%C3%A3o-imagem-1.-the-twilight-zone-.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/la-dimension-desconocida-1959-completa-50357/list,1,7</page>
+<page>http://diskokosmiko.mx/celso/la-dimension-desconocida-serie-tv-99451/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -606,7 +606,7 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/la-dimension-desconocida-1959-completa-50357/list,1,7</referer>
+<referer>http://diskokosmiko.mx/celso/la-dimension-desconocida-serie-tv-99451/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -658,8 +658,8 @@ item>
 
 
 
-item>
-<title>[COLOR lime] Autopista hacia el cielo[/B]</title>
+<item>
+<title>[COLOR lime] Autopista hacia el cielo: Temporada 1[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -667,11 +667,11 @@ item>
   <listrepeat><![CDATA[
         <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4ODM5NTMzOF5BMl5BanBnXkFtZTcwMTU1NDAzMQ@@._V1_.jpg</thumbnail>
+		<thumbnail>https://seriesblanco.com/files/uploads/48.jpg</thumbnail>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3YjdiNjAtMTAzOC00ZWY3LWJjMTAtMjE3OGIzMjZmMWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/autopista-hacia-el-cielo-1984-1989-71855/list,1,4</page>
+<page>http://diskokosmiko.mx/Cuspide/autopista-hacia-el-cielo-t1-47150</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -689,13 +689,93 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/autopista-hacia-el-cielo-1984-1989-71855/list,1,4</referer>
+<referer>http://diskokosmiko.mx/Cuspide/autopista-hacia-el-cielo-t1-47150</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://seriesblanco.com/files/uploads/48.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3YjdiNjAtMTAzOC00ZWY3LWJjMTAtMjE3OGIzMjZmMWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Autopista hacia el cielo: Temporada 2[/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://4.bp.blogspot.com/-MuJ5igNamOE/TaWJE6M6G6I/AAAAAAAAAWc/IcWsfcdnnfI/s1600/autopistahaciaelcielo2.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3YjdiNjAtMTAzOC00ZWY3LWJjMTAtMjE3OGIzMjZmMWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/autopista-hacia-el-cielo-t2-47154</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/autopista-hacia-el-cielo-t2-47154</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/-MuJ5igNamOE/TaWJE6M6G6I/AAAAAAAAAWc/IcWsfcdnnfI/s1600/autopistahaciaelcielo2.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3YjdiNjAtMTAzOC00ZWY3LWJjMTAtMjE3OGIzMjZmMWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Autopista hacia el cielo: Temporada 3[/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4ODM5NTMzOF5BMl5BanBnXkFtZTcwMTU1NDAzMQ@@._V1_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3YjdiNjAtMTAzOC00ZWY3LWJjMTAtMjE3OGIzMjZmMWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/autopista-hacia-el-cielo-t3-47159</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/autopista-hacia-el-cielo-t3-47159</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4ODM5NTMzOF5BMl5BanBnXkFtZTcwMTU1NDAzMQ@@._V1_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYmM3YjdiNjAtMTAzOC00ZWY3LWJjMTAtMjE3OGIzMjZmMWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg</fanart>
 </item>
+
+
 
 
 <item><title>[B]EL FUGITIVO [/B]</title>
@@ -710,7 +790,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYTNmNWZjYWEtMDVhNy00NmMzLTg0MDUtZmFlYzk1YzM0ODY0XkEyXkFqcGdeQXVyNjI3NTc5ODY@._V1_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/el-fugitivo-1963-1967-90926/list,1,6</page>
+<page>http://diskokosmiko.mx/monnet/el-fugitivo-serie-completada-23106/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -728,7 +808,7 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/el-fugitivo-1963-1967-90926/list,1,6</referer>
+<referer>http://diskokosmiko.mx/monnet/el-fugitivo-serie-completada-23106/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -752,7 +832,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3NzE1NDgxMzleQTJeQWpwZ15BbWU3MDk5MTU0NzE@._V1_SY1000_CR0,0,1550,1000_AL_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/el-avispon-verde-1966-1967-90182/list,1,2</page>
+<page>http://diskokosmiko.mx/Cielos/el-avispon-verde-38116/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -770,7 +850,7 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/el-avispon-verde-1966-1967-90182/list,1,2</referer>
+<referer>http://diskokosmiko.mx/Cielos/el-avispon-verde-38116/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -782,7 +862,7 @@ item>
 
 
 
-<item><title>[B]DINASTIA [/B]</title>
+<item><title>[B]DINASTIA 1981 [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -794,7 +874,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMWJkYWYxNTEtMmY3My00MmI0LThlOTQtYTc1ZGJmMjJmZDQ1XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/dinastia-1981-1989-87413/list,1,10</page>
+<page>http://diskokosmiko.mx/RosiC/dinastia-1981-completa-90644/list,1,7</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -812,7 +892,7 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/dinastia-1981-1989-87413/list,1,10</referer>
+<referer>http://diskokosmiko.mx/RosiC/dinastia-1981-completa-90644/list,1,7</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -826,7 +906,7 @@ item>
 
 
 
-<item><title>[B]DALLAS [/B]</title>
+item><title>[B]DALLAS [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -866,47 +946,11 @@ item>
 
 
 
-<item><title>[B]Caravana [/B]</title>
-<link>$doregex[makelist]</link>
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMDIxMzU1NF5BMl5BanBnXkFtZTcwMzk0MzcyMQ@@._V1_.jpg</thumbnail>
-        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOWZmMjUzYmUtMzM2MC00YzhkLTgxMWEtMDQyZmRhNmRiN2RjXkEyXkFqcGdeQXVyNDgxNDMwNjY@._V1_SY1000_CR0,0,1375,1000_AL_.jpg</fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/caravana-1957-1965-82634/list,1,5</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/caravana-1957-1965-82634/list,1,5</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMDIxMzU1NF5BMl5BanBnXkFtZTcwMzk0MzcyMQ@@._V1_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOWZmMjUzYmUtMzM2MC00YzhkLTgxMWEtMDQyZmRhNmRiN2RjXkEyXkFqcGdeQXVyNDgxNDMwNjY@._V1_SY1000_CR0,0,1375,1000_AL_.jpg</fanart>
-</item>
 
 
 
-<item><title>[B]Bonanza [/B]</title>
+
+<item><title>[B]Bonanza 1959 [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -918,7 +962,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDYwYWFlN2QtYzlhZS00MzFmLTlkNWEtODhhNTg5NzQ2ODE0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEzNzczNjg@._V1_SY1000_CR0,0,1310,1000_AL_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/batman-1966-1968-80795/list,1,6</page>
+<page>http://diskokosmiko.mx/frankiepentangelli/bonanza-1959-93039/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -936,7 +980,7 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/batman-1966-1968-80795/list,1,6</referer>
+<referer>http://diskokosmiko.mx/frankiepentangelli/bonanza-1959-93039/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -944,8 +988,7 @@ item>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDYwYWFlN2QtYzlhZS00MzFmLTlkNWEtODhhNTg5NzQ2ODE0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEzNzczNjg@._V1_SY1000_CR0,0,1310,1000_AL_.jpg</fanart>
 </item>
 
-
-<item><title>[B]Batman (1966-1968) [/B]</title>
+<item><title>[B]Bonanza  [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -953,11 +996,11 @@ item>
   <listrepeat><![CDATA[
         <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDY5NTg5MF5BMl5BanBnXkFtZTgwNzI4NzM1MjE@._V1_SY1000_CR0,0,776,1000_AL_.jpg</thumbnail>
-        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNWUxZmVkYTEtNTMyZi00OGM5LTgyMmEtYzBkMTA3YjNlNjZhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg</fanart>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzOTE5MzQ5OF5BMl5BanBnXkFtZTcwMDk5MTIwNw@@._V1_SY1000_CR0,0,702,1000_AL_.jpg</thumbnail>
+        <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDYwYWFlN2QtYzlhZS00MzFmLTlkNWEtODhhNTg5NzQ2ODE0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEzNzczNjg@._V1_SY1000_CR0,0,1310,1000_AL_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/batman-1966-1968-80795/list,1,6</page>
+<page>http://diskokosmiko.mx/seri5/bonanza-29299/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -975,15 +1018,13 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/batman-1966-1968-80795/list,1,6</referer>
+<referer>http://diskokosmiko.mx/seri5/bonanza-29299/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDY5NTg5MF5BMl5BanBnXkFtZTgwNzI4NzM1MjE@._V1_SY1000_CR0,0,776,1000_AL_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNWUxZmVkYTEtNTMyZi00OGM5LTgyMmEtYzBkMTA3YjNlNjZhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg</fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzOTE5MzQ5OF5BMl5BanBnXkFtZTcwMDk5MTIwNw@@._V1_SY1000_CR0,0,702,1000_AL_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDYwYWFlN2QtYzlhZS00MzFmLTlkNWEtODhhNTg5NzQ2ODE0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjEzNzczNjg@._V1_SY1000_CR0,0,1310,1000_AL_.jpg</fanart>
 </item>
-
-
 
 
 
@@ -999,7 +1040,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDEwMDkyN15BMl5BanBnXkFtZTgwMTM1ODU3MTE@._V1._PT-90_SY1000_CR0,0,1514,1000_AL_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/buck-rogers-en-el-siglo-xxv-1979-1981-79901/list,1,1</page>
+<page>http://diskokosmiko.mx/beycry/buck-rodgers-97048/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1017,31 +1058,13 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/buck-rogers-en-el-siglo-xxv-1979-1981-79901/list,1,1</referer>
+<referer>http://diskokosmiko.mx/beycry/buck-rodgers-97048/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzMDY1ODQ2MF5BMl5BanBnXkFtZTcwMDgyMTcyMQ@@._V1_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDEwMDkyN15BMl5BanBnXkFtZTgwMTM1ODU3MTE@._V1._PT-90_SY1000_CR0,0,1514,1000_AL_.jpg</fanart>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <item><title>[B]Batman y Robin (1949) [/B]</title>
 <link>$doregex[makelist]</link>
@@ -1055,7 +1078,7 @@ item>
         <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzRhOTY5MzYtNGIyZi00NGY4LThlY2UtZmJiODBhZmYwZDhjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/batman-y-robin-1949-79768</page>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/batman-y-robin-1949-94034</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1073,7 +1096,7 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/batman-y-robin-1949-79768</referer>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/batman-y-robin-1949-94034</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -1081,37 +1104,7 @@ item>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzRhOTY5MzYtNGIyZi00NGY4LThlY2UtZmJiODBhZmYwZDhjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg</fanart>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item><title>[B]melrose place [/B]</title>
+<item><title>[B]Melrose Place [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -1148,6 +1141,7 @@ item>
 <thumbnail>https://s5.postimg.org/tib6us1xj/melrose2.jpg</thumbnail>
 <fanart>https://s5.postimg.org/h2eh118lj/cast-of-melrose-place-5.jpg</fanart>
 </item>
+
 <item><title>[B]90210 beverly hills [/B]</title>
 <link>$doregex[makelist]</link>
 
@@ -1185,6 +1179,7 @@ item>
 <thumbnail>https://s5.postimg.org/6jehbv5xj/Season2.png</thumbnail>
 <fanart>https://s5.postimg.org/8zgappo07/descarga.jpg</fanart>
 </item>
+
 <item><title>[B]7 vidas completa[/B]</title>
 <link>$doregex[makelist]</link>
 
@@ -1632,7 +1627,7 @@ item>
 <fanart>https://s5.postimg.org/e5iawt0hz/1-xena-warrior-princess--510x287.jpg</fanart>
 </item>
 
-<item><title>[B]HERCULES [/B]</title>
+<item><title>[B]HERCULES: Temporada 0 [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -1644,7 +1639,7 @@ item>
         <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/xena-la-princesa-guerrera-serie-67233/list,1,6 </page>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t0-47770</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1662,13 +1657,243 @@ item>
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/xena-la-princesa-guerrera-serie-67233/list,1,6 </referer>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t0-47770</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
 <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
 </item>
+
+<item><title>[B]HERCULES: Temporada 1 [/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+        <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t1-47771</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t1-47771</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+<fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+</item>
+
+<item><title>[B]HERCULES: Temporada 2 [/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+        <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t2-47772</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t2-47772</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+<fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+</item>
+
+<item><title>[B]HERCULES: Temporada 3 [/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+        <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t3-47773</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t3-47773</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+<fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+</item>
+
+<item><title>[B]HERCULES: Temporada 4 [/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+        <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t4-47774</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t4-47774</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+<fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+</item>
+
+
+<item><title>[B]HERCULES: Temporada 5 [/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+        <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t5-47775</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t5-47775</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+<fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+</item>
+
+<item><title>[B]HERCULES: Temporada 6 [/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+        <fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/hercules-t6-47778</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/hercules-t6-47778</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s5.postimg.org/3lcyryldz/hercules_the_legendary_journeys_tv_series-707865.jpg</thumbnail>
+<fanart>https://s5.postimg.org/wmhb1d5tz/c7e2e00114277fb3fdd653a073089664.jpg</fanart>
+</item>
+
 
 <item><title>[B]ARRIBA Y ABAJO-1971[/B]</title>
 <link>$doregex[makelist]</link>
@@ -2572,7 +2797,7 @@ item>
 </item>
 
 
-<item><title>[B]LA FAMILIA ADDAMS[/B]</title>
+<item><title>[B]Walker Texas Ranger[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -2609,7 +2834,7 @@ item>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51uq%2BKl-ghL.jpg</thumbnail>
 <fanart>http://www2.heart.org/images/friendraiser_uploads/2172.2120943243.custom.jpg</fanart>
 </item>
-<item><title>[B]comandos en el desierto[/B]</title>
+<item><title>[B]Comandos en el desierto[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -2648,7 +2873,7 @@ item>
 </item>
 
 
-<item><title>[B]los 2 mosqueteros[/B]</title>
+<item><title>[B]Los 2 mosqueteros[/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -2687,7 +2912,7 @@ item>
 </item>
 
 
-<item><title>[B]yo soy espia [/B]</title>
+item><title>[B]Yo soy espia [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -2763,7 +2988,7 @@ item>
 <fanart>http://epoca1.valenciaplaza.com/bd/imagenes/imagen199738g.jpg</fanart>
 </item>
 
-<item><title>[B]los tres chiflados [/B]</title>
+<item><title>[B]Los tres chiflados [/B]</title>
 <link>$doregex[makelist]</link>
 
 <regex>
@@ -2799,4 +3024,43 @@ item>
 </regex>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71-GoSkDQiL._SL1204_.jpg</thumbnail>
 <fanart>http://showandprove.info/wp-content/uploads/2015/11/3stooges.jpg</fanart>
+</item>
+
+
+<item><title>[B]Epitafios : Temp 1 y 2[/B]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][COLOR lime]  [makelist.param3][/COLOR][/B]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://gkscc.files.wordpress.com/2010/09/epitafios.jpg</thumbnail>
+        <fanart>https://hablemosdeseries.files.wordpress.com/2016/11/epitafios-hbo-1.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/RosiC/epitafios-2004-t12-argentina-96718/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/RosiC/epitafios-2004-t12-argentina-96718/list,1,2<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://gkscc.files.wordpress.com/2010/09/epitafios.jpg</thumbnail>
+<fanart>https://hablemosdeseries.files.wordpress.com/2016/11/epitafios-hbo-1.jpg</fanart>
 </item>
