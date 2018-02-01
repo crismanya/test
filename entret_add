@@ -1,0 +1,168 @@
+ <channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]IPTV World[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/iptv.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas 1[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/peliculas.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas y Series[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/peliculas.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Carlosvives2017/vaulatron/master/Pelisyseries</externallink>
+</channel>
+  </channels>
+
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas 2[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/peliculas.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://addons.kodipro.org/series/pelishd.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas 3[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/peliculas.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Movies/MOVIES-ZONAS.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas 4[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/peliculas.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://srregio.net/Addon1.1/Menus/MenuPeliculas.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas Infantiles[/COLOR]</name>
+  <thumbnail>https://github.com/djliptv/DJLIPTV/blob/master/Pics/Logos/KidsThumbnail.png?raw=true</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/ZonaKids/ZonaKids-MENU.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas Infantiles 2[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/kids.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://adryanlist.org/adryan/infantiles.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas Infantiles 3[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/kids.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://addons.kodipro.org/series/infantilees%20.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas Infantiles Retros[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/kids.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://addons.kodipro.org/series/Cantoon%20Retros.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Películas Infantiles Retros[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/kids.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://addons.kodipro.org/series/Cantoon%20Retros.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Series 1[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/series.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/SERIES-MENU.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Series 2[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/series.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://addons.kodipro.org/series/SERIESUPERMOSPY23042017.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]• [/COLOR]Series 3[/COLOR]</name>
+  <thumbnail>http://adryanlist.org/adryan/img/series.png</thumbnail>
+<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Uruguay-Splash-Flag-HD-Wallpapers.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
+</channel>
+  </channels>
+
