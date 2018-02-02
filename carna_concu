@@ -1,0 +1,19 @@
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Concurso Carnaval 2018</title>
+<thumbnail>http://carnavaldeluruguay.com/wp-content/uploads/2017/09/murga-carnaval-2018-1320x874.jpg</thumbnail>
+<fanart>http://assets.cdn.antel.net.uy/dynamic/slider_images/2/631/default.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR deepskyblue] Entrá aquí para ver : [/COLOR][makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>https://i.ytimg.com/vi/[makelist.param1]/maxresdefault.jpg</thumbnail>
+    <fanart>http://assets.cdn.antel.net.uy/dynamic/slider_images/2/631/default.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL6EuTOcfSTvD9Wz3Uqt8odyeNlQEy8nrT</page>
+<referer>https://www.youtube.com/user/tenfieldigital/playlists</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
