@@ -2,9 +2,6 @@
 <SetViewMode>55</SetViewMode>
 
 
-<items>
-<view>movies</view>
-<fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
 
 
 
@@ -65,7 +62,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>lista</name>
   <listrepeat><![CDATA[
          <SetViewMode>55</SetViewMode>
-		 <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".mkv", "  [COLOR blue][I]AdryanList[/I][/COLOR]")</title>
+		 <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".mkv", "  [COLOR blue][I]CRIS.TV[/I][/COLOR]")</title>
         <link>$doregex[getUrl]</link>
 		 <thumbnail>[makelist4.param2]</thumbnail>
 		<fanart>[makelist4.param2]</fanart>
@@ -113,7 +110,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
+<thumbnail>NA</thumbnail>
+<fanart>https://i.imgur.com/0N9p0X7.jpg</fanart>
 </item>
 
 
@@ -137,9 +135,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>lista</name>
   <listrepeat><![CDATA[
          <SetViewMode>55</SetViewMode>
-		 <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".mkv", "  [COLOR blue][I]AdryanList[/I][/COLOR]")</title>
+		 <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".mkv", "  [COLOR blue][I]CRIS.TV[/I][/COLOR]")</title>
         <link>$doregex[getUrl]</link>
-		<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail>
+		<thumbnail>NA</thumbnail>
+		<fanart>https://i.imgur.com/0N9p0X7.jpg</fanart>
 		]]></listrepeat>
 <expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
 <page>http://diskokosmiko.mx/action/SearchFiles?Phrase=adryanlist&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
@@ -399,248 +398,77 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]EL RINCON DEL TERROR[/COLOR][COLOR skyblue] [/COLOR] [/B]</title>
-<link>ignorme</link>
-<externallink>http://adryanlist.org/adryan/terror.xml</externallink>
-
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info>
-</item>
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]ESPECIAL NAVIDAD[/COLOR][COLOR skyblue]Peliculas Navideñas [/COLOR] [/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/navidad.xml</externallink>
-<info>[B][COLOR skyblue]»»»   A  D  R  Y  A  N  L  I  S  T  «««[/COLOR]
-[COLOR aquamarine]Donaciones paypal.me/adryanlist[/COLOR][/B]</info></item>
-
-
-
-
- <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR lightgreen][B]EL RINCON DE LAS LISTAS [/COLOR][COLOR skyblue]Castellano[/COLOR] [/B]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/rincon.xml</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<iem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ESTRENOS [/B] [/COLOR][COLOR skyblue]LATINO[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>Pagina [makelist2.param1]</title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>'(.*?)'</expres>
-<page>'1''2''3''4''5''6''7''8''9''10''11''12''13''14''15''16''17''18''19''20''21''22''23''24''25'</page>
-</regex>
-
-
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-          <title>[COLOR deepskyblue][makelist.param3][/COLOR]</title>
-          <link>$doregex[server]</link>
-		  <thumbnail>[makelist.param2]</thumbnail>
-		    <fanart>[makelist.param2]</fanart>
-   ]]></listrepeat>
-<expres><![CDATA[>.*?<a href=".*?\/pelicula\/(.*?)".*?src="(.*?)".*?title="(.*?)"]]></expres>
-<page>http://www.cinecalidad.com/</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar></regex>
-
-
-<regex><name>server</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist.param3][/COLOR] -  [COLOR white][server.param1][/COLOR]</title>
-<link>$doregex[resolver]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0&Referer=http://www.cinecalidad.com/pelicula/[makelist.param1]</link>
-<thumbnail>[makelist.param2]</thumbnail>
- <fanart>[makelist.param2]</fanart>
-   ]]></listrepeat>
-<expres><![CDATA[service="(OnlineYourUpload|TheVideoMe|OnlineOpenload.*?)"]]></expres>
-<page>http://www.cinecalidad.com/pelicula/[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar></regex>
-
-
-<regex><name>resolver</name>
-<expres><![CDATA[#$pyFunction
-import re ,requests
-import urlresolver
-def parseint(string):
-    return int(''.join([x for x in string if x.isdigit()]))
-
-def GetLSProData(page_data,Cookie_Jar,m):
-
-  values = re.search(r'service="[server.param1]"\)\{h=dec\("(.*?)"\)\+dec\("(.*?)"', page_data, re.DOTALL)
-  var1=values.group(1)
-  var2=values.group(2)
-  var1+=''.join(' ')
-  var1+=''.join(var2)
-  str=var1
-  d = "" ; str = str.split(" ")
-  i=0
-  for i in range(0,len(str)):
-   pp=(parseint(str[i])-7)
-   d+=''.join(unichr(pp))
-
-  streamLink = urlresolver.resolve(d)
-  return streamLink
-]]></expres>
-  <page>http://www.cinecalidad.com/pelicula/[makelist.param1]</page>
-  <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar></regex></regex><thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-
-
-<iem>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ESTRENOS [/B] [/COLOR][COLOR aquamarine]CASTELLANO[/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>Pagina [makelist2.param1]</title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>'(.*?)'</expres>
-<page>'1''2''3''4''5''6''7''8''9''10''11''12''13''14''15''16''17''18''19''20''21''22''23''24''25'</page>
-</regex>
-
-
-
-
-
-<regex><name>makelist</name>
-<listrepeat><![CDATA[
-          <title>[COLOR deepskyblue][makelist.param3][/COLOR]</title>
-          <link>$doregex[server]</link>
-		  <thumbnail>[makelist.param2]</thumbnail>
-		    <fanart>[makelist.param2]</fanart>
-   ]]></listrepeat>
-<expres><![CDATA[post_box[\w\W\s]{0,45}\/pelicula\/(.*?)"[\w\W\s]{0,35}src="(.*?)"[\w\W\s]{0,25}alt="(.*?)"]]></expres>
-<page>http://www.cinecalidad.to/espana/page/[makelist2.param1]/</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar></regex>
-
-
-
-
-
-
-
-<regex><name>server</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist.param3][/COLOR] -  [COLOR white][server.param1][/COLOR]</title>
-<link>$doregex[resolver]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0&Referer=http://www.cinecalidad.com/pelicula/[makelist.param1]</link>
-<thumbnail>[makelist.param2]</thumbnail>
- <fanart>[makelist.param2]</fanart>
-   ]]></listrepeat>
-<expres><![CDATA[service="(OnlineYourUpload|TheVideoMe|OnlineOpenload.*?)"]]></expres>
-<page>http://www.cinecalidad.com/espana/pelicula/[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar></regex>
-
-
-<regex><name>resolver</name>
-<expres><![CDATA[#$pyFunction
-import re ,requests
-import urlresolver
-def parseint(string):
-    return int(''.join([x for x in string if x.isdigit()]))
-
-def GetLSProData(page_data,Cookie_Jar,m):
-
-  values = re.search(r'service=="[server.param1]"\)\{h=dec\("(.*?)"\)\+dec\("(.*?)"', page_data, re.DOTALL)
-  var1=values.group(1)
-  var2=values.group(2)
-  var1+=''.join(' ')
-  var1+=''.join(var2)
-  str=var1
-  d = "" ; str = str.split(" ")
-  i=0
-  for i in range(0,len(str)):
-   pp=(parseint(str[i])-7)
-   d+=''.join(unichr(pp))
-
-  streamLink = urlresolver.resolve(d)
-  return streamLink
-]]></expres>
-  <page>http://www.cinecalidad.com/espana/pelicula/[makelist.param1]</page>
-  <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar></regex></regex><thumbnail>http://adryanlist.org/adryan/img/adryflix.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<iem>
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ESTRENOS FULLHD[/B] [/COLOR][COLOR skyblue]AudioLatino[/COLOR] </title>
 <link>$doregex[makelist]</link>
 
@@ -733,7 +561,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<iem>
+<item>
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]ESTRENOS FULLHD[/B] [/COLOR][COLOR aquamarine]Audio Castellano[/COLOR] </title>
 <link>$doregex[makelist]</link>
 
@@ -827,7 +655,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<iem>
+<item>
 <title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]FULLHD[/B] [/COLOR][COLOR skyblue](GENEROS)  [Latino][/COLOR] </title>
 
 
