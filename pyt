@@ -119,7 +119,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>lista</name>
   <listrepeat><![CDATA[
          <SetViewMode>55</SetViewMode>
-		 <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]AdryanList[/I][/COLOR]").replace(".mkv", "  [COLOR blue][I]CRIS.TV[/I][/COLOR]")</title>
+		 <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR blue][I]Cris.TV[/I][/COLOR]").replace(".avi", "  [COLOR blue][I]Cris.TV[/I][/COLOR]").replace(".mkv", "  [COLOR blue][I]CRIS.TV[/I][/COLOR]")</title>
         <link>$doregex[getUrl]</link>
 		<thumbnail>NA</thumbnail>
 		<fanart>https://i.imgur.com/0N9p0X7.jpg</fanart>
