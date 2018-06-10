@@ -55,7 +55,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>http://diskokosmiko.mx/action/SearchFiles?Phrase=adryanlist&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
 <rawpost>Phrase=[makelist4.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
 <referer>http://diskokosmiko.mx/action/SearchFiles</referer>
-<connection>keep-alive</connection>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
@@ -67,7 +66,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[lista.param1]</page>
 <referer>http://diskokosmiko.mx/adryanlist</referer>
-<connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 
@@ -79,7 +77,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[lista.param1]</page>
 <rawpost>fileId=[lista.param2]&__RequestVerificationToken=$doregex[tok2]</rawpost>
 <referer>http://diskokosmiko.mx[lista.param1]</referer>
-<connection>keep-alive</connection>
 <accept>*/*</accept>
 <X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
@@ -90,7 +87,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx[lista.param1]</page>
 <referer>http://diskokosmiko.mx/adryanlist</referer>
-<connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 
