@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>playlist</title>
+<link>none</link>
+<externallink>http://62.210.93.115:80/playlist?type=m3u&amp;deviceMac=00:1A:79:2C:0C:04</externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>tyc</title>
 <link>http://sv1.apglive.xyz/hls/tyc_720.m3u8</link>
 </item>
