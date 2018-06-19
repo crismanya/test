@@ -20,7 +20,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     items.append((key,links[key]))
   return sorted(items)
 ]]></expres>
-<page>http://filesusc.com/apgl/dtv.json</page>
+<page>http://sv1.futbollibre.net/tvp/dtv.php?</page>
 </regex>
 </item>
 
