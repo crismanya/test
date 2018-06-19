@@ -31,10 +31,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>tyc</title>
-<link>http://sv1.apglive.xyz/hls/tyc_720.m3u8</link>
+<item><title>TYC SPORTS </title>
+<link>https://live.tycsports.com/hls/live/650614/108591-tyc/master.m3u8</link>
 </item>
+
+<item><title>TYC SPORTS FHD </title>
+<link>https://live.tycsports.com/hls/live/650614/108591-tyc/master_6500.m3u8</link>
+</item>
+
+<item><title>TYC SPORTS HD </title>
+<link>https://live.tycsports.com/hls/live/650614/108591-tyc/master_5000.m3u8</link>
+</item>
+
 
 <item><title>[B]Tierra de Gigantes[/B]</title>
 <link>$doregex[makelist]</link>
