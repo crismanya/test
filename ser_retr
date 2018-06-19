@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item><title>[COLOR cyan]Telefe[/COLOR]</title>
+<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/2354.png</thumbnail><info></info>
+<link>$doregex[quote]</link>
+<regex><name>getPhp</name>
+<expres><![CDATA["GET", "(.*?)"]]></expres>
+<page>http://televisionlibre.net/canal/telefe-en-vivo/embed.html</page>
+<cookieJar></cookieJar>
+</regex>
+<regex><name>getlink</name>
+<expres><![CDATA["telefe":"(.*?)"]]></expres>
+<page>$doregex[getPhp]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>quote</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+</item>
+
 <item>
 <title>[COLOR yellow]DTV[/COLOR]</title>
 <thumbnail></thumbnail>
