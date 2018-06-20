@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<title>http://ekostreams.co/ch/fox.php</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,urllib
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall("'(\d[^']+)",page_data,re.DOTALL);lists=''.join(list).strip().replace('.','%');lists=urllib.unquote('%'+re.findall('(.*)%',lists)[0])
+  source=requests.get(re.findall('src="(.*embed[^"]+)',lists)[0],headers={'User-Agent':'Mozilla/5.0','Referer':'http://ekostreams.co/ch/fox.php','Cache-Control':'no-cache'}).content.decode('ascii','ignore')
+  return re.findall('src.*?[\'"](.*stream/[^\'"]+)',source)[0]+'|User-Agent=Mozilla/5.0&Referer='+re.findall('src="(.*embed[^"]+)',lists)[0]
+]]></expres>
+<page>http://ekostreams.co/ch/fox.php</page>
+</regex>
+</item>
 
 <item>
 <title>[COLOR yellow]DTV[/COLOR]</title>
