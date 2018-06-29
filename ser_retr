@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
 <item>
 <title>http://ekostreams.co/ch/fox.php</title>
 <link>$doregex[getUrl]</link>
@@ -36,7 +39,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     items.append((key,links[key]))
   return sorted(items)
 ]]></expres>
-<page>http://sv1.futbollibre.net/tvp/dtv.php?</page>
+<page>http://filesusc.com/apgl/dtv.json?</page>
 </regex>
 </item>
 
