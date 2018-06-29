@@ -39,7 +39,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     items.append((key,links[key]))
   return sorted(items)
 ]]></expres>
-<page>http://filesusc.com/apgl/tnt2.json</page>
+<page>http://filesusc.com/apgl/dtv.json</page>
 </regex>
 </item>
 
