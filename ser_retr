@@ -11,7 +11,7 @@
     <regex>
         <name>getunpacked</name>
         <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
-        <page>http://whostreams.net/embed/3f78bgefr</page>
+        <page>http://whostreams.net/embed/jrnisj9pohg</page>
         <referer>http://whostreams.net/</referer>
         <connection>keep-alive</connection
     </regex>
