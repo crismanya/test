@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+    <title>whostreams</title>
+    <link>$doregex[geturl]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>source:"(.*?)"</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+        <page>http://whostreams.net/embed/3f78bgefr</page>
+        <referer>http://whostreams.net/</referer>
+        <connection>keep-alive</connection
+    </regex>
+</item>
+
 
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Telesur[COLOR  lime] HD[/COLOR] </title>
