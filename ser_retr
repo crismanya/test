@@ -180,12 +180,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
-<item>
-<title>playlist</title>
-<link>none</link>
-<externallink>http://62.210.93.115:80/playlist?type=m3u&amp;deviceMac=00:1A:79:2C:0C:04</externallink>
-<thumbnail></thumbnail>
-</item>
+
 
 <item><title>TYC SPORTS </title>
 <link>https://live.tycsports.com/hls/live/650614/108591-tyc/master.m3u8</link>
