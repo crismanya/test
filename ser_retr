@@ -68,7 +68,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  count=51;pn=1;data=[]
+  count=5;pn=1;data=[]
   while pn <= int(count):
      page='http://cinemitas.com/category/drama/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
      data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
