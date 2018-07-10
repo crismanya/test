@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>2 - Playa Pocitos</title>
+<title>2 - Playa Pocitos [I]En mantenimiento[/I]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -39,7 +39,7 @@
 
 
 <item>
-<title>3 - Teatro Solís</title>
+<title>3 - Teatro Solís </title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -47,7 +47,7 @@
 	<page>http://camaras.vera.com.uy/camara/27</page>
 	<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://assets-vera.sva.antel.com.uy/camaras/dynamic/cameras_images/27/default_source.jpg</thumbnail>
+<thumbnail>a</thumbnail>
 <fanart>http://comunidad.ladiaria.com.uy/wp-content/uploads/2015/10/32-HE.jpg</fanart>
 <info>Inaugurado en 1856 el Teatro Solís es hoy el mayor referente patrimonial de las artes escénicas de Uruguay y su primer escenario</info
 </item>
@@ -77,7 +77,7 @@
 	<page>http://camaras.vera.com.uy/camara/26</page>
 	<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://assets-vera.sva.antel.com.uy/camaras/dynamic/cameras_images/cameras_images/26/default_source.jpg</thumbnail>
+<thumbnail>http://assets-vera.sva.antel.com.uy/camaras/dynamic/cameras_images/26/default_source.jpg</thumbnail>
 <fanart>http://municipioc.montevideo.gub.uy/system/files/imagecache/articulo_completa/plaza_1_de_mayo_0.jpg</fanart>
 <info>La plaza ubicada en Aguada se estructura en un área verde y otra seca que se concibe con criterios de diseño arquitectónico. Se destacan sus 12 columnas que constituyen un elemento simbólico evocativo de los Mártires de Chicago</info
 </item>
@@ -91,7 +91,7 @@
 	<page>http://camaras.vera.com.uy/camara/34</page>
 	<cookieJar></cookieJar>
 </regex>
-<thumbnail>http://camaras.vera.com.uy/dynamic/cameras_images/34/default_source.jpg</thumbnail>
+<thumbnail>http://assets-vera.sva.antel.com.uy/camaras/dynamic/cameras_images/34/default_source.jpg</thumbnail>
 <fanart>http://www.hotelesmontevideo.com/cache/com_zoo/images/montevideo-sarandi-peatonal_bd570c21916f73c57c07fd76f7f56246.jpg</fanart>
 <info>Situada en el casco histórico de la ciudad, la Peatonal Sarandí es una obra del 1992 que permite un acceso jerarquizado a la Ciudad Vieja, lo que antaño fue la ciudad amurallada</info
 </item>
