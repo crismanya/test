@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>2 - Playa Pocitos [I]En mantenimiento[/I]</title>
+<title>2 - Playa Pocitos [COLOR=yellow][I]En mantenimiento[/I][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
