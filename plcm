@@ -1,0 +1,941 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+<item>
+<title>Action</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=36;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/action/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+ <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>Animación</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=11;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/animacion/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Aventura</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=18;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/aventura/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Belico</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=4;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/belico/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Ciencia Ficción</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=16;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/ciencia-ficcion/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Comedia</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=39;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/comedia/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>Crimen</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=4;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/crimen/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Deporte</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=1;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/deporte/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>Romance</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=17;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/romance/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Drama</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=51;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/drama/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Familiar</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=3;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/familiar/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Fantasia</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=18;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/fantasia/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Horror</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=1;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/horror/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>Infantil</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=1;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/infantil/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Intriga</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=8;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/intriga/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Misterio</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=1;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/misterio/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>Thriller</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=36;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/thriller/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Terror</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=17;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/category/terror/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Favoritas</title>
+<thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  count=12;pn=1;data=[]
+  while pn <= int(count):
+     page='http://cinemitas.com/tag/favoritas/page/'+str(pn)+'/';source=requests.get(page).content.decode('ascii','ignore')
+     data +=re.findall('ah-imagge".href="(.*?)".*?src="(.*?)".*?title="(.*?)"',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>$pyFunction:('[UPPERCASE][makelist2.param2][/UPPERCASE]')</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('"tab_box".*?(?:src|SRC)="(http(?:|s)://(?!hqq)([^w]+)\.(?:c|t).*?)"',page_data)
+]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+  return urlresolver.resolve('[makelist2.param1]')
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
