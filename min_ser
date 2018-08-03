@@ -27,3 +27,11 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-LCDP.xml</externallink>
 </item>
+
+<item>
+    <title>[I]Los Simpsons[/I]</title>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/yTZQkSsxUFJZJe67IenRM0AEklc.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/ls_sips</externallink>
+</item>
