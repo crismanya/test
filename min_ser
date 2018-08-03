@@ -214,6 +214,16 @@
     <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-HOC.xml</externallink>
 </item>
 
+
+<item>
+    <title>[I]Dragon Ball - Colección DVD[/I]</title>
+    <info></info>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81LoMMUe%2BIL._SX342_.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/drago_bll</externallink>
+</item>
+
+
 <item>
     <title>[I]The Big Bang Theory[/I]</title>
     <link>$doregex[makelist]</link>
