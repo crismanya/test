@@ -19,3 +19,11 @@
 <thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
 <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 </item>
+
+<item>
+    <title>[I]La Casa de Papel[/I]</title>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://github.com/djliptv/DJLIPTV/blob/master/Pics/LCDP/tlcdp.png?raw=true</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-LCDP.xml</externallink>
+</item>
