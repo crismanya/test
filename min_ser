@@ -55,45 +55,9 @@
 </regex>
 </item>
 
-<item>
-<title>[I]Los Graduados (2012)[/I]</title>
-<thumbnail>http://telefe.com/media/18068649/thumbnail_graduados.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[COLOR deepskyblue] Entrá aquí para ver - [/COLOR][makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-                        <fanart>https://oteve.files.wordpress.com/2012/05/graduados-actuales.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=-0IU_KPN0Jc&amp;list=PLa_EcprC2xwK7AHo_wVnT2VrFOU2xkj0f</page>
-            
-             <cookieJar></cookieJar>
-</regex>
 
-</item>
 
-<item>
-<title>[I]Los Roldán (2004)[/I]</title>
-<thumbnail>http://telefe.com/media/18074565/thumb_los_roldan.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[COLOR deepskyblue] Entrá aquí para ver - [/COLOR][makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>                      
-                        <fanart>https://i.ytimg.com/vi/bbNt3YWiRXA/maxresdefault.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=bbNt3YWiRXA&amp;list=PXmYeQySkuVbg4dLno36Aaz6twvLnadhMH4</page>
-            
-             <cookieJar></cookieJar>
-</regex>
 
-</item>
 
 </item>
 
@@ -116,4 +80,19 @@
 </regex>
 
 </item>
+</item>
+
+
+<item>
+<title>[I]Operación Rescate[/I]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.ytimg.com/vi/fnc1hXXiaIs/hqdefault.jpg<</thumbnail>
+  <externallink>https://raw.githubusercontent.com/crismanya/test/master/oper_repo</externallink>
+</item>
+
+<item>
+<title>[I]Series Retros[/I]</title>
+<link>http://ignorame</link>
+<thumbnail>NA</thumbnail>
+  <externallink>https://raw.githubusercontent.com/crismanya/test/master/ser_retr</externallink>
 </item>
