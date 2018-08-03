@@ -41,6 +41,7 @@
 
 <item>
 <title>[I]Los simuladores (2002)[/I]</title>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 <info>Los simuladores fue una serie de televisión argentina acerca de un grupo de cuatro socios que mediante operativos de simulacro sofisticados resuelven los problemas de gente común. </info>
 <thumbnail>https://image.tmdb.org/t/p/original/nhh269hcInZDNhGNZJjKREfY6uV.jpg</thumbnail>
 <link>$doregex[makelist]</link>
@@ -67,6 +68,7 @@
 
 <item>
 <title>[I]Son de Fierro (2007)[/I]</title>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 <thumbnail>http://www.webconferencia.net/images/imported/2007/01/4go81ms-4.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
@@ -91,12 +93,14 @@
 <title>[I]Operación Rescate[/I]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.dvdplanetstore.pk/wp-content/uploads/2017/12/nSbK3d5KJ7sXEiM2lHPjWY466fj-453x666.jpg</thumbnail>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
   <externallink>https://raw.githubusercontent.com/crismanya/test/master/oper_repo</externallink>
 </item>
 
 
 <item>
 <title>[I]La Voz Mexico[/I]</title>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 <thumbnail>http://oi66.tinypic.com/2d8kroi.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
@@ -252,5 +256,6 @@
 <page>https://www.youtube.com/playlist?list=PL-4I35YERBxJyxPiusQ-cyhJiJtCRQY6w</page>
 <referer>https://www.youtube.com/user/eltreceok/playlists</referer>
 <cookieJar></cookieJar>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 </regex>
 </item>
