@@ -10,7 +10,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson01-29047</page>
@@ -50,7 +50,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 2 ########  --->
@@ -63,7 +63,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson02-29045</page>
@@ -103,7 +103,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 3 ########  --->
@@ -116,7 +116,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson03-29044/list,1,1</page>
@@ -156,7 +156,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 4 ########  --->
@@ -169,7 +169,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson04-29043</page>
@@ -209,7 +209,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 5 ########  --->
@@ -222,7 +222,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson05-29042</page>
@@ -262,7 +262,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 6 ########  --->
@@ -275,7 +275,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson06-29041</page>
@@ -315,7 +315,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 7 ########  --->
@@ -328,7 +328,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson07-29040</page>
@@ -368,7 +368,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 8 ########  --->
@@ -381,7 +381,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson08-29039</page>
@@ -421,7 +421,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 9 ########  --->
@@ -434,7 +434,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson09-29038</page>
@@ -474,7 +474,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 10 ########  --->
@@ -487,7 +487,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson10-29037</page>
@@ -527,7 +527,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 11 ########  --->
@@ -540,7 +540,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson11-29036</page>
@@ -580,7 +580,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 12########  --->
@@ -593,7 +593,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson12-29035</page>
@@ -633,7 +633,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 13########  --->
@@ -646,7 +646,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson13-29034</page>
@@ -686,7 +686,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 14########  --->
@@ -699,7 +699,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson14-29033</page>
@@ -739,7 +739,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 15########  --->
@@ -752,7 +752,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson15-29032</page>
@@ -792,7 +792,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 16########  --->
@@ -805,7 +805,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson16-29031</page>
@@ -845,7 +845,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 17########  --->
@@ -858,7 +858,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson17-29030</page>
@@ -898,7 +898,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 18########  --->
@@ -911,7 +911,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson18-29029</page>
@@ -951,7 +951,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 19########  --->
@@ -964,7 +964,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson19-29027</page>
@@ -1004,7 +1004,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 20########  --->
@@ -1017,7 +1017,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson20-29026</page>
@@ -1057,7 +1057,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 21########  --->
@@ -1070,7 +1070,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson21-29025</page>
@@ -1110,7 +1110,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 22########  --->
@@ -1123,7 +1123,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson22-29024</page>
@@ -1163,7 +1163,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 23########  --->
@@ -1176,7 +1176,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson23-29023</page>
@@ -1216,7 +1216,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 24########  --->
@@ -1229,7 +1229,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson24-29022</page>
@@ -1269,7 +1269,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 25########  --->
@@ -1282,7 +1282,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson25-29021</page>
@@ -1322,7 +1322,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
 
 <!--- LOS SIMPSONS TEMPORADA 26########  --->
@@ -1335,7 +1335,7 @@
         <title>[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-	   <fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+	   <fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/seri5/simpson26-29020</page>
@@ -1375,5 +1375,6 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png</thumbnail>
-<fanart>http://www.screeninsults.com/images/the-simpsons-logo.JPG</fanart>
+<fanart>https://image.tmdb.org/t/p/original/aX9dKOVnquJRBFWmhIgbBXb6Fxv.jpg</fanart>
 </item>
+
