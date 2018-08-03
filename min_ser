@@ -233,3 +233,23 @@
     <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-TBBT.xml</externallink>
 </item>
 
+
+<item>
+<title>[I]El Puntero[/I]</title>
+<info>En tiempos en los que la marginalidad y la pobreza azotan a la sociedad y la gente cree que los funcionarios no escuchan sus reclamos, entra el acción “el puntero”, un pieza fundamental en el engranaje político. </info>
+<thumbnail>https://image.tmdb.org/t/p/original/rAPlMG5d2Nf0XZQ6MIzaCCnsd9E.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>Entra para ver: [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/rAPlMG5d2Nf0XZQ6MIzaCCnsd9E.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2NdVMSwmmONsRMWkGa1d3PptSu8.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL-4I35YERBxJyxPiusQ-cyhJiJtCRQY6w</page>
+<referer>https://www.youtube.com/user/eltreceok/playlists</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
