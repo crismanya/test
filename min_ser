@@ -13,6 +13,7 @@
 
 <item>
 <title>[I]Cartoneros[/I]</title>
+<info>Una historia de redención, amor, justicia, traiciones, supervivencia, amistad y superación.</info>
 <link>http://ignoreme</link>
 <genre>+18</genre>
 <externallink>https://raw.githubusercontent.com/crismanya/test/master/carto</externallink>
@@ -22,14 +23,16 @@
 
 <item>
     <title>[I]La Casa de Papel[/I]</title>
+    <info>Un enigmático personaje llamado el Profesor planea algo grande: llevar a cabo el mayor atraco de la historia. Para ello recluta una banda de ocho personas que reúnen un único requisito, ninguno tiene nada que perder. Cinco meses de reclusión memorizando cada paso, cada detalle, cada probabilidad… y por fin, once días de encierro en la Fábrica Nacional de Moneda, rodeados de cuerpos de policía y con decenas de rehenes en su poder para saber si su apuesta suicida será todo o nada.</info>
     <link>$doregex[makelist]</link>
-    <thumbnail>https://github.com/djliptv/DJLIPTV/blob/master/Pics/LCDP/tlcdp.png?raw=true</thumbnail>
+    <thumbnail>https://image.tmdb.org/t/p/original/l9lUN5ym61aJK4fJAOnNYNhabte.jpg</thumbnail>
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-LCDP.xml</externallink>
 </item>
 
 <item>
     <title>[I]Los Simpsons[/I]</title>
+    <info>Los Simpsons es una comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana.</info>
     <link>$doregex[makelist]</link>
     <thumbnail>https://image.tmdb.org/t/p/original/yTZQkSsxUFJZJe67IenRM0AEklc.jpg</thumbnail>
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
@@ -38,6 +41,7 @@
 
 <item>
 <title>[I]Los simuladores (2002)[/I]</title>
+<info>Los simuladores fue una serie de televisión argentina acerca de un grupo de cuatro socios que mediante operativos de simulacro sofisticados resuelven los problemas de gente común. </info>
 <thumbnail>https://image.tmdb.org/t/p/original/nhh269hcInZDNhGNZJjKREfY6uV.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
@@ -147,3 +151,75 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-E.xml</externallink>
 </item>
+
+<item>
+    <title>[I]Prison Break[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>La trama de la serie gira en torno a un hombre sentenciado a la pena de muerte y el elaborado plan de su hermano para salvarlo de la misma</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/38KlJOm67KyZqT9ZcBSsmET04HG.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-PB.xml</externallink>
+</item>
+
+<item>
+    <title>[I]Bates Motel[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Precuela contemporánea de la película Psicosis, que nos hace un retrato íntimo de cómo se desarrolla la psique de Norman Bates durante sus años de adolescencia. Los fans descubrirán su historia de trasfondo oscuro y retorcido y conocerán de primera mano cuán profundamente intrincada es la relación con su madre, Norma, y cómo ello ayudó a forjar a uno de los asesinos en serie más famoso de todos los tiempos.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-BM.xml</externallink>
+</item>
+
+<item>
+    <title>[I]Luis Miguel - The Serie[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Esta serie cuenta la historia del cantante mexicano Luis Miguel, una superestrella en Latinoamérica y el resto del mundo desde hace décadas.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/4pY96iDM0iUN0ZWfoJsNlM0Hrgo.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-LMTS.xml</externallink>
+</item>
+
+<item>
+    <title>[I]Stranger Things[/I]</title>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/esKFbCWAGyUUNshT5HE5BIpvbcL.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-ST.xml</externallink>
+</item>
+
+<item>
+    <title>[I]Mr Robot[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/esN3gWb1P091xExLddD2nh4zmi3.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-MR.xml</externallink>
+</item>
+
+<item>
+    <title>[I]Brigada A: Los Magnificos[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Hace 10 años, un tribunal militar condenó a prisión a unos comandos por un crimen que no cometieron; esos hombres escaparon del presidio y se instalaron clandestinamente en Los Ángeles</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/esN3gWb1P091xExLddD2nh4zmi3.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-TAT.xml</externallink>
+</item>
+
+<item>
+    <title>[I]House of Cards[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>El congresista estadounidense Francis Underwood y su esposa Claire no se detendrán ante nada para lograr sus propósitos. La historia de este drama político se adentra en un mundo repleto de avaricia, sexo y corrupción en la ciudad de Washington.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/tpj8wyeAVgDakXchERIzYUuwln9.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-HOC.xml</externallink>
+</item>
+
+<item>
+    <title>[I]The Big Bang Theory[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>The Big Bang Theory se centra en la vida de cinco personajes que residen en Pasadena, California: los compañeros de piso Leonard Hofstadter y Sheldon Cooper; su vecina Penny, una guapa camarera que aspira a triunfar como actriz</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/djliptv/DJLIPTV/master/Menu/Series/DJL-S-TAT.xml</externallink>
+</item>
+
