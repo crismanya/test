@@ -236,6 +236,7 @@
 
 <item>
 <title>[I]El Puntero[/I]</title>
+<fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 <info>En tiempos en los que la marginalidad y la pobreza azotan a la sociedad y la gente cree que los funcionarios no escuchan sus reclamos, entra el acción “el puntero”, un pieza fundamental en el engranaje político. </info>
 <thumbnail>https://image.tmdb.org/t/p/original/rAPlMG5d2Nf0XZQ6MIzaCCnsd9E.jpg</thumbnail>
 <link>$doregex[makelist]</link>
