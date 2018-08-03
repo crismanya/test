@@ -91,3 +91,51 @@
 </item>
 
 
+<item>
+<title>[I]La Voz Mexico[/I]</title>
+<thumbnail>http://oi66.tinypic.com/2d8kroi.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+   <name>makelist</name>
+   <listrepeat><![CDATA[
+          <title>[COLOR white][makelist.param3][/COLOR]</title>
+          <link>$doregex[makelist2]</link>
+          <thumbnail>http://oi66.tinypic.com/2d8kroi.jpg</thumbnail>
+   ]]></listrepeat>
+   <expres><![CDATA[a href="(.*?)" title="(.*?)">(La.*?)<]]></expres>
+   <page>http://www.tusnovelas.net/ver-telenovela/la-voz-mexico-2016</page>
+   <cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[ 
+	<title>[COLOR white][makelist.param3][/COLOR]</title>
+	<link>$doregex[getRTPM] playpath=$doregex[path] swfUrl=http://powvideo.net/player6/jwplayer.flash.swf live=1 timeout=15 pageUrl=[makelist2.param1]</link>
+]]></listrepeat>
+<expres><![CDATA[<IFRAME SRC="(.*gamo.*?)"\W]]></expres>
+<page>http://www.tusnovelas.net[makelist.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+ <name>getRTPM</name>
+ <expres><![CDATA[file: "(rtmp.*?h=.*?)\/]]></expres>
+ <page>[makelist2.param1]</page>
+ <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<connection>keep-alive</connection>
+</includeheaders>
+</regex>
+
+<regex>
+ <name>path</name>
+ <expres><![CDATA[file: "rtmp.*?h=.*?\/(.*?)"\W]]></expres>
+ <page>[makelist2.param1]</page>
+ <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<connection>keep-alive</connection>
+</includeheaders>
+</regex>
+</item>
