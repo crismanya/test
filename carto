@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[I]Cartoneros - Episodio 1[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3X-KYdKZQWE</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info>La historia arranca en vísperas de la crisis del 2001 y con el Chino perdiendo su trabajo, que era en negro y en donde su empleador lo estafa. Este es el punto de partida para que el Chino se la rebusque, porque en su casa tiene una mujer y un hijo que alimentar. Así es cómo comienza a cartonear y es en este punto que descubre que en la calle su carácter y su tamaño no le sirven de mucho: Es un pichi y, además de tener que aprender los códigos, tiene que dejarse enseñar.</info>
+</item>
+</items>
+
+
+
+<item>
+<title>[I]Cartoneros - Episodio 2[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0egWrwmZpIk</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+<item>
+<title>[I]Cartoneros - Episodio 3[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bsROPuduRdY</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+<item>
+<title>[I]Cartoneros - Episodio 4[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=70E-O18FKwA</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<item>
+<title>[I]Cartoneros - Episodio 5[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BleTfKqklnI</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<item>
+<title>[I]Cartoneros - Episodio 6[/I]</title>
+ 
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1aZYD-MbHU_p83D3-uGJ_ux3RaR75jA5f&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[I]Cartoneros - Episodio 7[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nTX8BRxGVLw</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<item>
+<title>[I]Cartoneros - Episodio 8[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=asm4kRygx8o</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<item>
+<title>[I]Cartoneros - Episodio 9[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QdkAPeSyejg</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<item>
+<title>[I]Cartoneros - Episodio 10[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=I6r04Txfzdk</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+<item>
+<title>[I]Cartoneros - Episodio 11[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7vFiG28exec</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+<item>
+<title>[I]Cartoneros - Episodio 12[/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Nf8h8Dfjw_Q</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<item>
+<title>[I]Cartoneros - Episodio 13 [/I][Final]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uz-KJnJnhys</link>
+<thumbnail>https://i.imgur.com/xyTIKME.jpg</thumbnail>
+<fanart>https://i.imgur.com/oAcpHFT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
