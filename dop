@@ -5,18 +5,12 @@
     <channels_info> <!-- this is opitonal -->
       <title>DJLIPTV</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>Television</genre>
-      <description>Lista de Movies DJLIPTV  </description>
-       <thumbnail>https://www.dropbox.com/s/cv03buq9dud2u64/DJLIPTVCHLogo.jpg?dl=1</thumbnail><fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
-      <date>01.01.2017</date>
-      <credits>http://bit.ly/DJLIPTVWEB</credits>
+      <description>/description>
+      <date>05.08.2018</date>
+      <credits>Cris.T</credits>
     </channels_info>
 			
-	<channel>
-		<name>[COLOR white]+[/COLOR] [B][COLOR skyblue]PRISON BREAK[/COLOR][/B] [COLOR lime][HD][/COLOR] [COLOR deepskyblue][TEMPORADA 1][/COLOR]</name>
-		<thumbnail>https://github.com/djliptv/DJLIPTV/blob/master/Pics/PB/tpbs1.png?raw=true</thumbnail>
-		<fanart>https://github.com/djliptv/DJLIPTV/blob/master/Pics/PB/fpbs1.jpg?raw=true</fanart>
-        
-		<items>
+	
 
 
 
