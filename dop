@@ -23,7 +23,7 @@
         
 		<items>
 
-<item><title>[I]Dope Temporada 1×01[[/I]</title>
+<item><title>[I]Dope Temporada 1×01[/I]</title>
 <urlsolve>https://openload.co/embed/h7GpdgfG684/</urlsolve>
 <thumbnail>https://i.imgur.com/rldx2fM.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ziifqvSnGGYXocFCjlkGR58fY2P.jpg</fanart>
@@ -58,7 +58,7 @@
 		<items>
 		
 		
-	<item><title>[I]Dope Temporada 2×01[[/I]</title>
+	<item><title>[I]Dope Temporada 2×01[/I]</title>
 <urlsolve>https://openload.co/embed/PW9sM6DTOqk</urlsolve>
 <thumbnail>https://i.imgur.com/rldx2fM.png</thumbnail>
 <fanart>https://i.imgur.com/dvE03i9.jpg</fanart>
@@ -85,7 +85,10 @@
 </items>	
 		
 		
+		
+	</channel>
 	
+</channels>	
 		
 		
 		
