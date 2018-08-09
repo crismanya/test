@@ -259,3 +259,23 @@
 <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
 </regex>
 </item>
+
+<item>
+    <title>[I]DOPE[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Con las perspectivas de vendedores, de adictos y de la policía, esta serie presenta una nueva visión de la guerra contra las drogas.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/dop</externallink>
+</item>
+
+<item>
+    <title>[I]Chicas buenas[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Tres madres planean el asalto a un supermercado para acabar con sus problemas económicos y hacerse independientes.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/d6gA2IHRLqtHcmSqkk91Xw0wtEv.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/gogrl</externallink>
+</item>
+
+
