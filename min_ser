@@ -305,3 +305,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/fco</externallink>
 </item>
 
+<item>
+    <title>[I]Sombras del ayer[/I]</title>
+    <info></info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://i.imgur.com/cRSAUV3.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/sdayer</externallink>
+</item>
+
