@@ -296,3 +296,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/lclndah</externallink>
 </item>
 
+<item>
+    <title>[I]Falco[/I]</title>
+    <info>La serie gira en torno a Alejandro Falco (Michel Brown), un detective de homicidios que está casado y tiene una hija recién nacida. Durante un operativo policíaco él recibe un disparo en la cabeza que lo deja en coma durante 23 años. Al despertar descubre que su esposa se casó con otro hombre y que su hija ahora es una mujer. El mundo que lo rodea ha cambiado totalmente, y no tiene ni la menor idea de como funciona Internet o la redes sociales. Gracias a que no perdió su dotes como detectives logra recuperar su antiguo trabajo y se enfrenta a casos policiales utilizando sus métodos anticuados.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://i.imgur.com/4lWSsuo.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/fco</externallink>
+</item>
+
