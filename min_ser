@@ -287,3 +287,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/drulor</externallink>
 </item>
 
+<item>
+    <title>[I]La Cacería "La niñas de Alto Hospicio"[/I]</title>
+    <info>Esta serie se relata la historia de César Rojas, detective que viaja de Santiago para tomar el caso de unas adolescentes desaparecidas en misteriosas circunstancias en Alto Hospicio.El protagonista de esta serie, es el reconocido actor nacional Francisco Melo, quien encarnará al “detective Rojas” en su obsesiva búsqueda por la verdad, sobre el paradero de estas adolescentes.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://i.imgur.com/Sgs046t.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/lclndah</externallink>
+</item>
+
