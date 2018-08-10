@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Falco - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/4lWSsuo.jpg</thumbnail>
+		<info>Serie de ficción inspirada en el perfil que realizó Rodrigo Fluxá en el libro "Los Malos", sobre el psicópata de Alto Hospicio, Julio Pérez Silva.</info>
+		<fanart>https://2.bp.blogspot.com/-MeO4-jvmnrc/W0frejhAjiI/AAAAAAAAg7k/9Dhtq1d_5mY0bWdIhxacC0jhXqEjSSaHgCLcBGAs/s1600/serie%2Bfalco.JPG</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<urlsolve>https://openload.co/embed/-MkFsi84flI</urlsolve>
+<thumbnail>https://www.telemundo.com/sites/nbcutelemundo/files/styles/episodes_grid/public/images/mpx/2018/07/22/180721_3765658_Falco__Capitulo_1__Falco_despierta_en_un_mun.jpg?</thumbnail>
+<info>Falco Está Decidido A Rehacer Su Vida, Pero Tras Un Incidente Es Acusado De Asesinato. Su Instinto Policial Entra En Acción Y Lo Motiva A Limpiar Su Nombre.</info>
+<fanart>https://2.bp.blogspot.com/-MeO4-jvmnrc/W0frejhAjiI/AAAAAAAAg7k/9Dhtq1d_5mY0bWdIhxacC0jhXqEjSSaHgCLcBGAs/s1600/serie%2Bfalco.JPG</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<urlsolve>https://openload.co/embed/mqDaK70FKmE</urlsolve>
+<thumbnail>https://www.telemundo.com/sites/nbcutelemundo/files/styles/episodes_grid/public/images/mpx/2018/07/29/180729_3769566_Falco__Capitulo_2__Falco_empieza_su_nueva_vi.jpg</thumbnail>
+<info>Alejandro Y Su Compañero, Tenoch Investigan El Asesinato De Un Hombre Que Llevaba Doble Vida. Falco Descubre Que El Médico Forense Es La Pareja De Su Esposa.</info>
+<fanart>https://2.bp.blogspot.com/-MeO4-jvmnrc/W0frejhAjiI/AAAAAAAAg7k/9Dhtq1d_5mY0bWdIhxacC0jhXqEjSSaHgCLcBGAs/s1600/serie%2Bfalco.JPG</fanart>
+</item>
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<urlsolve>https://openload.co/embed/xWZAQdm3oaI</urlsolve>
+<thumbnail>https://www.telemundo.com/sites/nbcutelemundo/files/styles/episodes_grid/public/images/mpx/2018/08/04/180803_3773149_Falco__Capitulo_3__Falco_se_reencuentra_con_.jpg</thumbnail>
+<info>Después De 23 Años, El Momento Más Anhelado De Falco Con Su Hija, No Sale Como Él Se Lo Imaginaba. El Detective Se Obsesiona, Por Descifrar La Misteriosa Muerte De Una Siquiatra..</info>
+<fanart>https://2.bp.blogspot.com/-MeO4-jvmnrc/W0frejhAjiI/AAAAAAAAg7k/9Dhtq1d_5mY0bWdIhxacC0jhXqEjSSaHgCLcBGAs/s1600/serie%2Bfalco.JPG</fanart>
+</item>
