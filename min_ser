@@ -278,4 +278,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/gogrl</externallink>
 </item>
 
+<item>
+    <title>[I]Capos de la droga[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Las historias de los capos de la droga más famosos, los sicarios más sanguinarios y las personas que juraron meterlos entre rejas.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/7LDHsDjvnyVSnEP2o9aK5JbyJqc.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/drulor</externallink>
+</item>
 
