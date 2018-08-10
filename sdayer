@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Sombras del ayer - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/cRSAUV3.jpg</thumbnail>
+		<info>Cuando era joven, Elo fue separada cruelmente de su gran amor: Pedro,  un joven integro, romántico y  que pertenece a una poderosa família cuyo lema es “los fines siempre justifican los medios”. Por ser de origen muy humilde, los padres de Pedro tramaron una serie de intrigas para separar a la joven pareja que parecia predestinada a vivir un gran amor</info>
+		<fanart>https://i.imgur.com/WFkfkFq.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<urlsolve>https://openload.co/embed/MmcO5Wj36Qw</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<urlsolve>https://openload.co/embed/0EViFY3esXg</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<urlsolve>https://openload.co/embed/9mTl7KyYGIY</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]4. Capítulo 4[/B]</title>
+<urlsolve>https://openload.co/embed/GsjyrsRKsIs</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+	
+<item><title>[B]5. Capítulo 5[/B]</title>
+<urlsolve>https://openload.co/embed/wZL2YZw5Zdk</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]6. Capítulo 6[/B]</title>
+<urlsolve>https://openload.co/embed/fe5Zt57OHNI</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]7. Capítulo 7[/B]</title>
+<urlsolve>https://openload.co/embed/bpl1P82y6Q4</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]8. Capítulo 8[/B]</title>
+<urlsolve>https://openload.co/embed/38ZdLXev_to</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]9. Capítulo 9[/B]</title>
+<urlsolve>https://openload.co/embed/tKjyYs4JYQI</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+<item><title>[B]10. Capítulo 10[/B]</title>
+<urlsolve>https://openload.co/embed/ux-3HPlUc2s/010.mp4</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/3PusuPr.jpg</fanart>
+</item>
+
+</items>
