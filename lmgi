@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+	<channel>
+		<name>Luis Miguel - The Serie - Temporada 1</name>
+		<info>Esta serie relata la vida del cantante Luis Miguel, quien ha cautivado al público en Latinoamérica y más allá durante muchas décadas.</info>
+		<thumbnail>https://image.tmdb.org/t/p/original/4pY96iDM0iUN0ZWfoJsNlM0Hrgo.jpg</thumbnail>
+		<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+        
+		<items>
+                
+	
+
+			<item>
+				<title>[B]00. Intro[/B]</title>
+				<info>Episodio de Introducción</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E00.mp4</link>
+				<thumbnail>https://i.imgur.com/9fXjeaY.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]01. Cuando calienta el sol[/B]</title>
+				<info>En 1981, el padre de Luis Miguel, un músico con dificultades, lo sube al escenario por primera vez. Seis años después, crece la tensión entre ellos.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E01.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/a3a28/c675279bcfcc276d6340f0333f8293a1ce4a3a28.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]02. La malagueña[/B]</title>
+				<info>La prensa descubre la conversación de Luis Miguel con Hugo. Su padre intenta conseguirle un dueto con Michael Jackson. Su debut televisivo se muestra mediante recuerdos.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E02.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/ef194/c3cf320d765d60d4733347df84a82eb39c8ef194.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]03. Yo que no vivo sin ti[/B]</title>
+				<info>Luis Miguel le suplica a su discográfica que lo deje probar un nuevo estilo musical y celebra sus 18 años. De vuelta en 1981, Luisito Rey le pide demasiado a Marcela.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E03.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/6bf83/b92f72b128885924c117501f4b16a6685386bf83.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]04. Culpable o no[/B]</title>
+				<info>Los celos ponen en peligro la relación de Luis Miguel y Mariana. Alex encuentra una postal de su madre y siente que su hermano lo traicionó.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E04.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/fab81/3f2a6476d304e45931011c899764a4439a7fab81.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]05. La chica del bikini azul[/B]</title>
+				<info>La vida fiestera de Luis Miguel termina poniendo en peligro a una admiradora enamorada. Los problemas financieros generan dudas sobre la administración de su padre.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E05.mkv</link>
+				<thumbnail>https://occ-0-901-999.1.nflxso.net/art/b8b50/36cf3f02b19e5f08032d5901f5ce3e7a6a9b8b50.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]06. Mamá, mamá[/B]</title>
+				<info>El cantante debe sobrellevar el entrenamiento básico en un colegio militar para poder filmar allí y aprende sobre responsabilidad. Alex busca a su mamá en Italia.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E06.mkv</link>
+				<thumbnail>https://occ-0-901-999.1.nflxso.net/art/f4f11/84c6d2e40d54d13e488aeacf6bf170442b4f4f11.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]07. La incondicional[/B]</title>
+				<info>En medio de los problemas económicos a causa de su padre, Luis Miguel viaja a Italia para ayudar a Alex a buscar a su madre y destapa más de una mentira.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E07.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/ef397/c389e118847919d865f87ef5bc6b0f8c90bef397.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]08. Alguien como tú[/B]</title>
+				<info>Luisito Rey inaugura una disquera. Luis Miguel, quien intenta definir qué hacer sobre la evasión de impuestos, viaja a Aspen con Alex.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E08.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/ec482/e7870a352492ab2a1461b8ddc6084d595e8ec482.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]09. Todo el amor del mundo[/B]</title>
+				<info>Se inicia una investigación sobre la desaparición de Marcela. Luis Miguel comienza a frustrarse por las preguntas que le hacen los periodistas acerca de su padre.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E09.mkv</link>
+				<thumbnail>https://occ-0-2446-2794.1.nflxso.net/art/d59dd/28d0c60a87a683d73f1204bfe6e7e79bc4ad59dd.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]10. Decídete[/B]</title>
+				<info>Luis Miguel debe decidir qué hacer luego de un avance en la búsqueda de la madre. En 1985, la tensión aumenta durante una reunión familiar en Italia.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E10.mkv</link>
+				<thumbnail>https://occ-0-2433-999.1.nflxso.net/art/06f19/92f19f6c9e9e97b53ded178cb9db1a3ef2606f19.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]11. Marcela[/B]</title>
+				<info>Luisito Rey está en la quiebra y empieza a quedarse sin opciones. Érika y Fede discuten por Luis Miguel. En 1986, Marcela recibe una serenata en pleno escenario.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E11.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/ec19a/c4d437eae52caae6af508b52ceaf4625ab9ec19a.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]12. No me platiques más[/B]</title>
+				<info>La verdad sobre el lugar de nacimiento de Luis Miguel amenaza con destruir su carrera justo cuando intenta lanzar un nuevo álbum de canciones clásicas mexicanas.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E12.mkv</link>
+				<thumbnail>https://occ-0-2433-444.1.nflxso.net/art/8cb9f/90600bdf3277c2947e59e7567b33b32d9e48cb9f.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]13. No me puedes dejar así[/B]</title>
+				<info>A medida que empeora la salud de su padre, aumenta la desesperación de Luis Miguel ya que podría ser la última oportunidad para averiguar qué le sucedió a su madre.</info>
+				<link>https://archive.org/download/djliptv-S-LMTS/LMTS-S01E13.mkv</link>
+				<thumbnail>https://occ-0-2433-444.1.nflxso.net/art/d8584/faee84c92dd22c9b8653ad9e8bfaa323f6cd8584.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+		</items>
+	</channel>
+</channels>
