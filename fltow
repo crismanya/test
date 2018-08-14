@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Flint Town - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/NJH6Asd.jpg</thumbnail>
+		<info>Durante dos años, los realizadores siguieron a los policías de Flint, Michigan, y lo que descubrieron fue un departamento desbordado en condiciones insostenibles.</info>
+		<fanart>https://i.imgur.com/2wnZxna.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. Bienvenidos a Flint[/B]</title>
+<urlsolve>https://openload.co/embed/ffNoJRct5Pw/</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/daebc/1791cd33044d9deb4e1b59d7b125b84b00bdaebc.jpg</thumbnail>
+<info>Una crisis con el suministro de agua y el nombramiento de una nueva alcaldesa preocupan a la policía, que intenta proteger la ciudad sin tener suficiente personal.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]2. Two Guns[/B]</title>
+<urlsolve>https://openload.co/embed/YAzgXjtGzEc/</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/38635/639b27a012a0e0ec84ca9731fb491a609a138635.jpg</thumbnail>
+<info>El nuevo jefe de policía trae cambios al aproximarse un debate presidencial. Un cadete pasa por el entrenamiento y el veterano Frost rememora un doloroso incidente.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]3. Rat Pack[/B]</title>
+<urlsolve>https://openload.co/embed/sGUtNwMvXc4/</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/2d71e/0dd72319f2d4c432d48bd0d7c2b24424cfa2d71e.jpg</thumbnail>
+<info>El nuevo equipo para las áreas de mayor criminalidad entra en acción con opiniones encontradas entre los vecinos. Dion y su madre están más cerca de graduarse.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]4. Muerte y homicidio[/B]</title>
+<urlsolve>https://openload.co/embed/B7QURS7VR1s/</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/324a0/76c4db3dea0c84ddfc8c9f02044befecf63324a0.jpg</thumbnail>
+<info>La policía debe lidiar con una tienda que atrae actividades delictivas, Dion trabaja su primer turno y los agentes reaccionan ante la tragedia de Dallas.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]5. Los números[/B]</title>
+<urlsolve>https://openload.co/embed/lB5yr4jAZJI/</urlsolve>
+<thumbnail>https://occ-0-2433-444.1.nflxso.net/art/ef84e/1b392c93544d792c390b16de68b032f2044ef84e.jpg</thumbnail>
+<info>La tensión entre la comunidad y la policía lleva a la creación de un programa de agentes de reserva voluntarios. Los datos sobre criminalidad resultan esperanzadores.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]6. La noche del demonio[/B]</title>
+<urlsolve>https://openload.co/embed/lUe_D-69WwI</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/f0fbf/0f610c63c426e0c3ee3decc713b6a6d6a26f0fbf.jpg</thumbnail>
+<info>Donald Trump, candidato a la presidencia, visita Flint. Los votantes examinan la financiación de la policía y el comisario busca fuentes de ingresos alternativas.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]7. Dos mundos[/B]</title>
+<urlsolve>https://openload.co/f/BIzMmBxUcSQ</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/c1c24/285d07bd863b5853c7a1efedc5a2a7959a2c1c24.jpg</thumbnail>
+<info>El día de las elecciones, mientras el departamento aguarda los resultados impacientemente, todo sigue igual en las calles. La victoria de Trump divide a los agentes.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+<item><title>[B]8. El enfrentamiento[/B]</title>
+<urlsolve>https://openload.co/f/aZyRDigKHow</urlsolve>
+<thumbnail>https://occ-0-901-448.1.nflxso.net/art/89b57/5798a58042d68cf3a9a7a292e524b0c868089b57.jpg</thumbnail>
+<info>Johnson se enfrenta al consejo municipal por el presupuesto, mientras las estadísticas sobre la delincuencia empeoran. Balasko y Frost reflexionan sobre su futuro juntos.</info>
+<fanart>https://i.imgur.com/TCuMDyr.jpg</fanart>
+</item>
+
+
+
+
+</items>	
+		
+		
+		
+	</channel>
+	
+</channels>
