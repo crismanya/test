@@ -307,10 +307,20 @@
 
 <item>
     <title>[I]Sombras del ayer[/I]</title>
-    <info></info>
+    <info>Cuando era joven, Elo fue separada cruelmente de su gran amor: Pedro,  un joven integro, romántico y  que pertenece a una poderosa família cuyo lema es “los fines siempre justifican los medios”. Por ser de origen muy humilde, los padres de Pedro tramaron una serie de intrigas para separar a la joven pareja que parecia predestinada a vivir un gran amor.</info>
     <link>$doregex[makelist]</link>
     <thumbnail>https://i.imgur.com/cRSAUV3.jpg</thumbnail>
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/sdayer</externallink>
+</item>
+
+
+<item>
+    <title>[I]Flint Town[/I]</title>
+    <info>Los realizadores siguieron dos años a los policías de Flint, Michigan, y revelan un departamento que debe afrontar situaciones impredecibles en condiciones insostenibles.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://i.imgur.com/NJH6Asd.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/fltow</externallink>
 </item>
 
