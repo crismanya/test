@@ -314,6 +314,15 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/sdayer</externallink>
 </item>
 
+<item>
+    <title>[I]Querer sin límites[/I]</title>
+    <info></info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://pbs.twimg.com/media/DTDoGahW4AAppdX.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/qsli</externallink>
+</item>
+
 
 <item>
     <title>[I]Flint Town[/I]</title>
