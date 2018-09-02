@@ -333,3 +333,13 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/fltow</externallink>
 </item>
 
+<item>
+    <title>[I]Ghoul[/I]</title>
+    <info>Cuando un prisionero nuevo en un centro de detención militar exhibe un comportamiento extraño, la búsqueda de un joven interrogador de la verdad se convierte en una batalla por la supervivencia.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/vHw1fgPNuz7F7yNnGkHI3sTPkTt.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/7GTY278</externallink>
+</item>
+
+
