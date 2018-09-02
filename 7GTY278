@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+	<channel>
+		<name>Ghoul - The Serie - Temporada 1</name>
+		<info>Un prisionero llega a unas remota y siniestra instalación militar para ser interrogado, pero revertirá la situación exponiendo a sus interrogadores a sus más íntimos secretos… Primera serie creada por Netflix en India, de los productores de ‘Insidious’ y ‘Get Out’.</info>
+		<thumbnail>https://image.tmdb.org/t/p/original/vHw1fgPNuz7F7yNnGkHI3sTPkTt.jpg</thumbnail>
+		<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+        
+		<items>
+              
+	<item>
+				<title>[B]Trailer oficial[/B]</title>
+				 <link>plugin://plugin.video.youtube/play/?video_id=zg0N4L4mwFk</link>
+				<thumbnail>https://i.ytimg.com/vi/zg0N4L4mwFk/maxresdefault.jpg</thumbnail>
+				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+			</item>
+
+			<item>
+				<title>[B]01. Fuera del fuego sin humo[/B]</title>
+				<info>Después de exponer las actividades antigubernamentales de su padre, Nida Rahim es admitido como el nuevo interrogador en el remoto centro de detención Meghdoot 31.</info>
+				<link>https://archive.org/download/7GTY278/7GTY278-01x01.mkv</link>
+				<thumbnail>https://i.imgur.com/cUbwiFd.jpg</thumbnail>
+				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]02. Las pesadillas comenzarán[/B]</title>
+				<info>Los destellos del pasado comienzan a perseguir a Nida. Cuando se interroga al líder de la secta, Ali Saeed, sus desconcertantes respuestas la llevan a sospechar sus motivos.</info>
+				<link>https://archive.org/download/7GTY278/7GTY278-01x02.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/0e5eb/2a812752ea7a03a41f14bf9e7d7e36118c40e5eb.jpg</thumbnail>
+				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]03. Revela su culpa, come su carne[/B]</title>
+				<info>Nida se entera del ghoul que habita Saeed. Al decirle a sus compañeros interrogadores, ella descubre la alarmante verdad sobre lo que revela su presencia.</info>
+				<link>https://archive.org/download/7GTY278/7GTY278-01x03.mkv</link>
+				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/7a716/8c17e264084791b590a2f415b5eeb6da96e7a716.jpg</thumbnail>
+				<fanart>https://i.imgur.com/5c0HRcD.jpg</fanart>
+			</item>
+			
+			
