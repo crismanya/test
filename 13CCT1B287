@@ -10,6 +10,12 @@
         
 		<items>
                 
+		<item>
+				<title>[B]Trailer oficial[/B]</title>
+				 <link>plugin://plugin.video.youtube/play/?video_id=lfIQAnrVPlI</link>
+				<thumbnail>https://i.ytimg.com/vi/lfIQAnrVPlI/maxresdefault.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
 
 	
 
