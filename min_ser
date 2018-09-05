@@ -342,4 +342,11 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/7GTY278</externallink>
 </item>
 
-
+<item>
+    <title>[I]Las chicas del cable[/I]</title>
+    <info>Madrid, años veinte. Cuatro operadoras de la Compañía de Telefonía de España hacen resonar una revolución mientras lidian con el amor, la amistad y el trabajo.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/2QZzVoZEHTZgj5KrhCHkcUr2ITU.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/13CCT1B287</externallink>
+</item>
