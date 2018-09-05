@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+	<channel>
+		<name>Las Chicas del Cable - Temporada 1</name>
+		<info>Madrid, años veinte. Cuatro operadoras de la Compañía de Telefonía de España hacen resonar una revolución mientras lidian con el amor, la amistad y el trabajo.</info>
+		<thumbnail>https://image.tmdb.org/t/p/original/jPG1mnozwW9R3HkXojgoAnQuqBO.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/gzU6TQ70WYTa52yIuxBKFk875hx.jpg</fanart>
+        
+		<items>
+                
+
+	
+
+			<item>
+				<title>[B]01. Capítulo 1: Los sueños[/B]</title>
+				<info>Lidia está acostumbrada a robar, pero ahora debe hacerlo para salvar su vida. Cada una de las mujeres llega al trabajo con sus propios deseos.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x01.mkv</link>
+				<thumbnail>https://occ-0-901-448.1.nflxso.net/art/fe5a2/913653130a517fda01ba85c45b020cc50befe5a2.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]02. Capítulo 2: Los recuerdos[/B]</title>
+				<info>Francisco le ofrece un trato a Lidia. Marga está preocupada por lo que vio en la fiesta. El padre de Carlota interfiere en su vida.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x02.mkv</link>
+				<thumbnail>https://occ-0-901-448.1.nflxso.net/art/90572/03cf203f4618908e9730a317e5a3d48f0a790572.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]03. Capítulo 3: Las mentiras[/B]</title>
+				<info>Llaman a la policía cuando se pone en duda la identidad de Lidia. La esposa de Francisco tiene sospechas y le pide ayuda a Carolina.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x03.mkv</link>
+				<thumbnail>https://occ-0-901-448.1.nflxso.net/art/03734/180fbdf9872a78e4bf34f4036ea1ac31cce03734.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]04. Capítulo 4: Los sentimientos[/B]</title>
+				<info>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x04.mkv</link>
+				<thumbnail>https://s3.ap-south-1.amazonaws.com/cinebee-content/series/episode/CableGirls14.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]05. Capítulo 5: El pasado[/B]</title>
+				<info>Carolina amenaza con revelar la verdadera identidad de Lidia. Miguel le exige a Carlota que tome una decisión sobre su relación. Todo cambia para Ángeles.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x05.mkv</link>
+				<thumbnail>https://occ-0-901-444.1.nflxso.net/art/baee8/53499d76deceaf737efb6d260fe1db97672baee8.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]06. Capítulo 6: La familia[/B]</title>
+				<info>Lidia ayuda a Ángeles a planificar su escape. Carlota trabaja para sacar a Sara de la cárcel. Por su parte, Carlos tiene una pelea con su padre.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x06.mkv</link>
+				<thumbnail>https://occ-0-901-448.1.nflxso.net/art/91a76/f69c1e48341ca03ed477020dbe4d18a500291a76.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]07. Capítulo 7: La pérdida[/B]</title>
+				<info>La familia Cifuentes llora la pérdida sufrida. Lidia decide que tiene que ser honesta con Carlos y contarle quién es en realidad.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x07.mkv</link>
+				<thumbnail>https://occ-0-901-448.1.nflxso.net/art/2a7b9/71518cc58632649ae9f9b1cdb2a603682f22a7b9.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+			
+			<item>
+				<title>[B]08. Capítulo 8: El amor[/B]</title>
+				<info>La nueva tecnología del rotary divide las lealtades de Lidia, quien debe elegir entre Carlos y sus amigas.</info>
+				<link>https://archive.org/download/13CCT1B287/13CCT1B287-01x08.mkv</link>
+				<thumbnail>https://occ-0-901-448.1.nflxso.net/art/3c6b1/0dc41551049908f08f625888a3d1bfc618b3c6b1.jpg</thumbnail>
+				<fanart>https://image.tmdb.org/t/p/original/aKDA2CMvyJdFf6ztVjZmW2T9OcV.jpg</fanart>
+			</item>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      		</items>
+	</channel>
+</channels>
