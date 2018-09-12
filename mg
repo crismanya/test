@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>[B]El Marginal Temporada 2 Capítulo 88[/B]</title>
+<title>[B]El Marginal Temporada 2 Capítulo 8[/B]</title>
 <link>https://archive.org/download/3l.Mrg1n3l/3l.M%40rg1n3l.2x08.mkv</link>
 <thumbnail>https://i.imgur.com/WpfeuMH.jpg</thumbnail>
 <fanart>https://conlagentenoticias.com/wp-content/uploads/2018/07/marginal.jpg</fanart>
