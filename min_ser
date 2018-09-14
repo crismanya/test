@@ -350,3 +350,12 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/13CCT1B287</externallink>
 </item>
+
+<item>
+    <title>[I]Jack Ryan de Tom Clancy[/I]</title>
+    <info>Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/6eWxUIF0ThM7Xf3d1gonLMMrKWb.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/S-5JRTC79</externallink>
+</item>
