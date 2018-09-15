@@ -359,3 +359,13 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/S-5JRTC79</externallink>
 </item>
+
+
+<item>
+    <title>[I]Taboo[/I]</title>
+    <info>Taboo, sigue a James Keziah Delaney (Hardy), un hombre que regresa a su hogar, Londres, después de que muchos le diesen por muerto. Creada por Knight a partir de una historia original del propio Hardy y su padre Chips Hardy, la serie contará cómo James recibe la herencia del imperio de navíos de su progenitor e intenta reconstruir su vida. Algo que no le resultará fácil cuando tienes enemigos que quieren acabar con tu vida.</info>
+    <link>$doregex[makelist]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/gtT4OtctmGq0U2NxINcpZFmBAFX.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/S-8TT1B69</externallink>
+</item>
