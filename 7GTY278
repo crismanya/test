@@ -15,31 +15,94 @@
 				 <link>plugin://plugin.video.youtube/play/?video_id=zg0N4L4mwFk</link>
 				<thumbnail>https://i.ytimg.com/vi/zg0N4L4mwFk/maxresdefault.jpg</thumbnail>
 				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
-			</item>
+	</item>
 
-			<item>
-				<title>[B]01. Fuera del fuego sin humo[/B]</title>
-				<info>Después de exponer las actividades antigubernamentales de su padre, Nida Rahim es admitido como el nuevo interrogador en el remoto centro de detención Meghdoot 31.</info>
-				<link>https://archive.org/download/7GTY278/7GTY278-01x01.mkv</link>
-				<thumbnail>https://i.imgur.com/cUbwiFd.jpg</thumbnail>
-				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
-			</item>
+
+<item>
+<title>[B]01. Fuera del fuego sin humo[/B]</title>
+ <info>Después de exponer las actividades antigubernamentales de su padre, Nida Rahim es admitido como el nuevo interrogador en el remoto centro de detención Meghdoot 31.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1KTtav8_yoHoOqlCsyXS63gLA_DIuc2SM&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/cUbwiFd.jpg</thumbnail>
+<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+</item>
+
+<item>
+<title>[B]02. Las pesadillas comenzarán[/B]</title>
+<info>Los destellos del pasado comienzan a perseguir a Nida. Cuando se interroga al líder de la secta, Ali Saeed, sus desconcertantes respuestas la llevan a sospechar sus motivos.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=11i1-KGaI9Kxp33fRi6EqSRwJ1ekEHynl&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/0e5eb/2a812752ea7a03a41f14bf9e7d7e36118c40e5eb.jpg</thumbnail>
+<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+</item>
+
+<item>
+<title>[B]03. Revela su culpa, come su carne[/B]</title>
+<info>Nida se entera del ghoul que habita Saeed. Al decirle a sus compañeros interrogadores, ella descubre la alarmante verdad sobre lo que revela su presencia.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1vzZgWrXW0mdX9-NHZHKBt_9JxC38z3c7&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/7a716/8c17e264084791b590a2f415b5eeb6da96e7a716.jpg</thumbnail>
+<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
+</item>
 			
-			<item>
-				<title>[B]02. Las pesadillas comenzarán[/B]</title>
-				<info>Los destellos del pasado comienzan a perseguir a Nida. Cuando se interroga al líder de la secta, Ali Saeed, sus desconcertantes respuestas la llevan a sospechar sus motivos.</info>
-				<link>https://archive.org/download/7GTY278/7GTY278-01x02.mkv</link>
-				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/0e5eb/2a812752ea7a03a41f14bf9e7d7e36118c40e5eb.jpg</thumbnail>
-				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
-			</item>
 			
-			<item>
-				<title>[B]03. Revela su culpa, come su carne[/B]</title>
-				<info>Nida se entera del ghoul que habita Saeed. Al decirle a sus compañeros interrogadores, ella descubre la alarmante verdad sobre lo que revela su presencia.</info>
-				<link>https://archive.org/download/7GTY278/7GTY278-01x03.mkv</link>
-				<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/7a716/8c17e264084791b590a2f415b5eeb6da96e7a716.jpg</thumbnail>
-				<fanart>https://i.imgur.com/XrOeCip.jpg</fanart>
-			</item>
 			
 		 
       </item>
