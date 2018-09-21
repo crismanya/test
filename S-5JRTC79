@@ -20,71 +20,231 @@
 	
 
 			<item>
-				<title>[B]01. Piloto[/B]</title>
-				<info>En el estreno de la serie, el analista de la CIA Jack Ryan, descubre una serie de transacciones sospechosas que lo quitan a él y a su jefe James Greer de sus escritorios y los lleva al campo a atrapar a la nueva y poderosa amenaza. Hanin empieza a cuestionar las negociaciones de su esposo después de que trae a un extraño a casa.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01x01.mkv</link>
-				<thumbnail>https://i.imgur.com/vaDl58K.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]02. Conexión Francesa[/B]</title>
-				<info>Jack y Greer encuentran información nueva que los lleva a París, esto es un paso más cerca del elusivo Suleiman. El esposo de Hanin regresa a casa con un fervor nuevo para su misión secreta, esto hace que esté insegura del futuro de su familia.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X02.mkv</link>
-				<thumbnail>https://i.imgur.com/dJ1zMaY.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]03. Black 22[/B]</title>
-				<info>El piloto de drones, Victor, tiene problemas con la gran responsabilidad que conlleva su trabajo. Jack y Greer se unen con los oficiales de Francia en una misión para encontrar al hermano de Suleiman. Hanin se ve obligada a tomar una decisión peligrosa para el bien de sus hijos.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X03.mkv</link>
-				<thumbnail>https://i.imgur.com/T3yOcD4.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]04. El Lobo[/B]</title>
-				<info>Mientras Jack y Cathy se conocen más, la doble vida de Jack está a prueba. Suleiman agrega otra demostración de fuerza y hace que esté un paso más cerca de su próximo ataque.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X04.mkv</link>
-				<thumbnail>https://i.imgur.com/tIbTcWa.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]05. El Fin del Honor[/B]</title>
-				<info>Después del horrible ataque en París, Jack y Greer descubren una estrategia más profunda detrás de las acciones de Suleiman, esto obliga a que Jack sugiera una trampa inusual para él. Hanin se enfrenta a nuevos retos en su búsqueda de libertad.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X05.mkv</link>
-				<thumbnail>https://i.imgur.com/CJ3Q5Dg.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]06. Recursos y Métodos[/B]</title>
-				<info>El código de moral de Jack se pone a prueba cuando él y Greer usan a un criminal turco para que los ayude a encontrar a un objetivo de alto rango que tal vez les ayude a encontrar a Suleiman. Hanin intenta evadir a sus preseguidores y mantiene a sus hijas a salvo. Cathy investiga un brote virulento de Ébola que tal vez pueda llevar a algo más grave.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X06.mkv</link>
-				<thumbnail>https://i.imgur.com/d9hxDDd.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]07. El Niño[/B]</title>
-				<info>Jack y Greer convencen a sus superiores para que los dejen liderar un asalto en cubierto para capturar a Suleiman. La doble vida de Jack le cuesta más que una relación importante.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X07.mkv</link>
-				<thumbnail>https://i.imgur.com/1IZWdOn.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-			
-			<item>
-				<title>[B]08. Inshallah[/B]</title>
-				<info>Jack y Greer temen que el próximo ataque de Suleiman sea en territorio estadounidense. Deben averiguar cómo detenerlo o arriesgarse a graves consecuencias.</info>
-				<link>https://archive.org/download/S-5JRTC79/S-5JRTC79-01X08.mkv</link>
-				<thumbnail>https://i.imgur.com/44OjjDs.jpg</thumbnail>
-				<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
-			</item>
-      
-      
-      
+<title>[B]01. Piloto[/B]</title>
+ <info>En el estreno de la serie, el analista de la CIA Jack Ryan, descubre una serie de transacciones sospechosas que lo quitan a él y a su jefe James Greer de sus escritorios y los lleva al campo a atrapar a la nueva y poderosa amenaza. Hanin empieza a cuestionar las negociaciones de su esposo después de que trae a un extraño a casa.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1mIYfz1k98kV5R6U2S8-_6pz_cl6GnZl2&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/vaDl58K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+<item>
+<title>[B]02. Conexión Francesa[/B]</title>
+ <info>Jack y Greer encuentran información nueva que los lleva a París, esto es un paso más cerca del elusivo Suleiman. El esposo de Hanin regresa a casa con un fervor nuevo para su misión secreta, esto hace que esté insegura del futuro de su familia.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1dbI0HkJSBYeh0_L7iGRddkGXmjzR98Ei&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/dJ1zMaY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B]03. Black 22[/B]</title>
+ <info>El piloto de drones, Victor, tiene problemas con la gran responsabilidad que conlleva su trabajo. Jack y Greer se unen con los oficiales de Francia en una misión para encontrar al hermano de Suleiman. Hanin se ve obligada a tomar una decisión peligrosa para el bien de sus hijos.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1XkpcPc4SkOra4bWIiOp5faUJYUVFdbcZ&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/T3yOcD4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+<item>
+<title>[B]04. El Lobo[/B]</title>
+ <info>Mientras Jack y Cathy se conocen más, la doble vida de Jack está a prueba. Suleiman agrega otra demostración de fuerza y hace que esté un paso más cerca de su próximo ataque.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1IEudF01ljxspvLQZHw5JxLw-EFucQQB4&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/tIbTcWa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+<item>
+<title>[B]05. El Fin del Honor[/B]</title>
+ <info>Después del horrible ataque en París, Jack y Greer descubren una estrategia más profunda detrás de las acciones de Suleiman, esto obliga a que Jack sugiera una trampa inusual para él. Hanin se enfrenta a nuevos retos en su búsqueda de libertad.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1QlXkZ5QM-Ft_kfPJHOEhIh_Y2VIGB_2x&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/CJ3Q5Dg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B]06. Recursos y Métodos[/B]</title>
+ <info>El código de moral de Jack se pone a prueba cuando él y Greer usan a un criminal turco para que los ayude a encontrar a un objetivo de alto rango que tal vez les ayude a encontrar a Suleiman. Hanin intenta evadir a sus preseguidores y mantiene a sus hijas a salvo. Cathy investiga un brote virulento de Ébola que tal vez pueda llevar a algo más grave.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1QU_iCPN0HGipd514D2y-N15hN0QtHjFw&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/d9hxDDd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B]07. El Niño[/B]</title>
+ <info>Jack y Greer convencen a sus superiores para que los dejen liderar un asalto en cubierto para capturar a Suleiman. La doble vida de Jack le cuesta más que una relación importante.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1Et5Sf9B8P6m9nNl4dy9KH4lrqsbU4ukI&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/1IZWdOn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
+
+<item>
+<title>[B]08. Inshallah[/B]</title>
+ <info>Jack y Greer temen que el próximo ataque de Suleiman sea en territorio estadounidense. Deben averiguar cómo detenerlo o arriesgarse a graves consecuencias.</info>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests,re
+ url= 'https://docs.google.com/uc?id=1QzatXQK2xs1hxhl9Fc9_x6SNl2LnCJ-a&export=download'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source0= requests.get(url,headers=headers)
+ pageUrl = 'https://docs.google.com' + re.findall('goog-inline-block jfk-button jfk-button-action" href="(.*?)"', source0.text)[0].replace('amp;', '')
+ cookies =  source0.cookies.get_dict()
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0','Referer': url}
+ source= requests.get(pageUrl, headers=headers, cookies=cookies, allow_redirects=False)
+ 
+ streamUrl = re.findall('HREF="(.*?)"',source.text)[0]
+ 
+ return streamUrl
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>https://i.imgur.com/44OjjDs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ops4f0v0TdUFcHRiJTGSnlBpVB.jpg</fanart>
+</item>
       
       
       
