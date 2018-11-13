@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>La Fiesta [Mini serie] - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/2TBDEOz.jpg</thumbnail>
+		<info>O Rebu (título internacional: La Fiesta) es una telenovela brasileña producida por la Rede Globo que se estrenó el 14 de julio de 2014. Basada en la telenovela homónima escrita por Bráulio Pedroso y producida en 1974, la nueva versión está escrita por George Moura y Sérgio Goldenberg, con la colaboración de Charles Peixoto, Flávio Araújo, Lucas Paraízo y Mariana Mesquita, dirigida por Paulo Silvestrini, Luisa Lima e Walter Carvalho y con la dirección general y núcleo de José Luiz Villamarim.</info>
+		<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<urlsolve>https://openload.co/embed/5EqoLdlF3OI/</urlsolve>
+<thumbnail>https://i.imgur.com/2TBDEOz.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<urlsolve>https://openload.co/embed/9wEtJV6lhxE/</urlsolve>
+<thumbnail>https://i.imgur.com/2TBDEOz.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<urlsolve>https://openload.co/embed/tNyOAX0AYv0/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]4. Capítulo 4[/B]</title>
+<urlsolve>https://openload.co/embed/RlYlD1jGu7o/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+	
+<item><title>[B]5. Capítulo 5[/B]</title>
+<urlsolve>https://openload.co/embed/OW0LrZHVhMc/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]6. Capítulo 6[/B]</title>
+<urlsolve>https://openload.co/embed/-Q5_TlNkdjA/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]7. Capítulo 7[/B]</title>
+<urlsolve>https://openload.co/embed/RWPAOmpsclE/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]8. Capítulo 8[/B]</title>
+<urlsolve>https://openload.co/embed/D_s_Ub4bcNY/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]9. Capítulo 9[/B]</title>
+<urlsolve>https://openload.co/embed/LT0e2jlEi6Y/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]10. Capítulo 10[/B]</title>
+<urlsolve>https://openload.co/embed/S6ORczuXj5k/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]11. Capítulo 11[/B]</title>
+<urlsolve>https://openload.co/embed/RcRCRP01v3E/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]12. Capítulo 12[/B]</title>
+<urlsolve>https://openload.co/embed/duaFCqii7Pk/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]13. Capítulo 13[/B]</title>
+<urlsolve>https://openload.co/embed/yHxQB6G58aE/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]14. Capítulo 14[/B]</title>
+<urlsolve>https://openload.co/embed/UO4p1dVGC0s/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+	
+<item><title>[B]15. Capítulo 15[/B]</title>
+<urlsolve>https://openload.co/embed/XMp-RWVeDW4/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+<item><title>[B]16. Capítulo 16[/B]</title>
+<urlsolve>https://openload.co/embed/StvzI7KNLbo/</urlsolve>
+<thumbnail>https://i.imgur.com/PRHHUm7.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/lWzZFlz.jpg</fanart>
+</item>
+
+</items>
+
+	
+	</channel>
+	
+</channels>
