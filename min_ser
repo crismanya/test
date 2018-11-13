@@ -408,3 +408,14 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/am_etr</externallink>
 </item>
+
+
+
+<item>
+    <title>[I]Bajo Presión[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Bajo presión es una serie de televisión brasileña coproducida por Conspiração Filmes y Rede Globo derivada de la película del mismo nombre, bajo la dirección de Andrucha Waddington. Es protagonizada por Júlio Andrade y Marjorie Estiano.</info>
+    <thumbnail>https://i.imgur.com/wQbGMt0.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/bjp</externallink>
+</item>
