@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Queen of the South (Reina del sur) - Temporada 1</name>
+		<thumbnail>https://image.tmdb.org/t/p/original/5HYYs9VDE0Gsiydi0wMFwkuvxiX.jpg</thumbnail>
+		<info>Obligada a trabajar para el cártel que recientemente asesinó a su novio, Teresa recurre a su astucia, una persona leal y un cuaderno misterioso para sobrevivir.</info>
+		<fanart>https://image.tmdb.org/t/p/original/yEYjKe5mTtBN85pptUYFwlTQvAT.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. Piloto[/B]</title>
+<urlsolve>https://openload.co/embed/Jf8unDfE-qs</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/97f10/b32f2f323d6d4be912a106bebfbb0b1985a97f10.jpg</thumbnail>
+<info>Teresa, una cambista de dinero de México, se enamora del traficante de drogas conocido como Güero, cuyo asesinato la hace escapar de sus enemigos y llegar a Dallas.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]2. Cuarenta minutos[/B]</title>
+<urlsolve>https://openload.co/embed/breEP-VZzsE</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/c9d1f/26858df86c468044010af77325b4e6eb21bc9d1f.jpg</thumbnail>
+<info>Para escapar de las redes de prostitución, Teresa se ofrece como mula de contrabando de drogas. En México, Brenda y su hijo evaden a los matones de Epifanio.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]3. Estrategia de entrada[/B]</title>
+<urlsolve>https://openload.co/embed/mIwBNILRTRg</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/4f7d7/3cefcc70e6777bb9a6e52ea9de84da1ef1d4f7d7.jpg</thumbnail>
+<info>Teresa le demuestra su lealtad a Camila y la impresiona con una habilidad adquirida como cambista de dinero en México.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]4. Lirio de los valles[/B]</title>
+<link>http://stor64.streamcloud.eu:8080/hxv74rib42oax3ptxyryzbxyun7hqvplfo5xw23tvjpdexgsl2psj3ypim/video.mp4|Referer=http://streamcloud.eu/3pf35xq1hdm9</link>
+<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/a1fb3/408e82b34ba31ff7d863eb42fed34a7dbfea1fb3.jpg</thumbnail>
+<info>Teresa debe controlar la situación cuando las cosas no salen como las planeó durante su primera operación en solitario. Camila intenta ganarse a los socios de su esposo.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]5. Un alma, un mapa, a futuro[/B]</title>
+<urlsolve>https://openload.co/embed/2r0hzj8pUjw</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/11051/d7d5c7de77ba371ef51f5b319b8c672bb0411051.jpg</thumbnail>
+<info>Teresa se infiltra en una fiesta desenfrenada para matar al líder del narco rival. Brenda se encuentra con una oportunidad para hacer negocio justo fuera de su hotel.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]6. El engaño como la regla[/B]</title>
+<urlsolve>https://openload.co/embed/rF5Em0O_3H0</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/7aedd/2058072d862d4212a0a232058aff190f3967aedd.jpg</thumbnail>
+<info>Epifanio avisa a la DEA sobre el embarque que Camila recibirá de Colombia. Camila considera un plan que involucra a Teresa y que la liberaría de la culpa de la pérdida</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]7. El Hombre Pájaro[/B]</title>
+<urlsolve>https://openload.co/embed/27zALjDXlo8</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/5e4fa/2c64e44d171af1bb71945d2fc5ac4259c485e4fa.jpg</thumbnail>
+<info>Teresa visita a un abogado de migración. Para vengarse de los colombianos, Camila envía a James y a Teresa a recoger las ganancias, pero ahí los espera una emboscada.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]8. Billete de magia[/B]</title>
+<urlsolve>https://openload.co/embed/eoNfVzddvtU</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/a6259/30b84e422f5e0fdd57d19ca33bd6150fdb8a6259.jpg</thumbnail>
+<info>Brenda y su equipo intentan hacer metanfetaminas. Como parte del plan para robar 25 kilos de cocaína de los amigos de James, Teresa se hace pasar por camarera de hotel.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]9. Toma todo lo que puedas[/B]</title>
+<urlsolve>https://openload.co/embed/WMpkIQGK3nU</urlsolve>
+<thumbnail>https://occ-0-990-987.1.nflxso.net/art/46c88/e59eef5b9f56026c607337a51e1a1bf729a46c88.jpg</thumbnail>
+<info>Cuando se entera del plan para asesinar a la camarera, Teresa intenta escapar. Un hombre llega de Florida para vengar la muerte de sus hermanos.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]10. Esta cosa nuestra[/B]</title>
+<urlsolve>https://openload.co/embed/xunboRtHLIY</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/4dbe2/4891002825e136a7213c98d5468d67adefb4dbe2.jpg</thumbnail>
+<info>En México, Teresa se encuentra con los familiares furiosos de María, que le complican el acceso a la libreta del Güero. Camila se reúne con su esposo desaparecido.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]11. Punto sin retorno[/B]</title>
+<urlsolve>https://openload.co/embed/P1L4F0sv3nk</urlsolve>
+<thumbnail>https://occ-0-2446-37.1.nflxso.net/art/e6615/150f29415b83911ca98ce47d44c8d632cdbe6615.jpg</thumbnail>
+<info>Brenda visita la mansión del Birdman para hacerle una propuesta. Oculto, James ajusta la mira de su rifle de asalto sobre el líder del cártel.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+
+<item><title>[B]12. Quinientos mil[/B]</title>
+<urlsolve>https://openload.co/embed/P43nMyRdPKI</urlsolve>
+<thumbnail>https://occ-0-901-444.1.nflxso.net/art/9d35c/82033b4ba2ee1bf0ac10354138ed0f9fb3b9d35c.jpg</thumbnail>
+<info>Teresa y a Brenda hacen un hallazgo insospechado. James lidera una misión peligrosa para extraer a un teniente del cártel de Jiménez de una casa de seguridad de la DEA.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]13. Cicatriz[/B]</title>
+<urlsolve>https://openload.co/embed/H6twcY1eH_s</urlsolve>
+<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/cbd6c/5be0082b6c9f6e15c0e1d53c75b2f802a70cbd6c.jpg</thumbnail>
+<info>Epifanio lleva a cabo una revancha sin precedentes cuando se entera de que sus hombres están ahora con Camila. Cuando Teresa se entera, le hace una oferta a Camila.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+
+--------------------------------------
+
+<channel>
+		<name>Queen of the South (Reina del sur) - Temporada 2</name>
+		<thumbnail>https://image.tmdb.org/t/p/original/5HYYs9VDE0Gsiydi0wMFwkuvxiX.jpg</thumbnail>
+		<info>Teresa y Camila se asocian y juntas se proponen acabar con Epifanio y construir su propio imperio narco. Mientras tanto, regresa una persona del pasado de Teresa.</info>
+		<fanart>https://image.tmdb.org/t/p/original/yEYjKe5mTtBN85pptUYFwlTQvAT.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. El cuerpo de Cristo[/B]</title>
+<urlsolve>https://openload.co/embed/HWPd5JOZSV0</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/d47a6/077ec33c19faab91c783f03b806bb8b3c56d47a6.jpg</thumbnail>
+<info>Para convertirse en socia de Camila, Teresa negocia una alianza con un contrabandista tejano fanático de las armas. Epifanio también establece una nueva asociación.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]2. Dios y el abogado[/B]</title>
+<link>http://stor62.streamcloud.eu:8080/htv75r4a4ooax3ptx3pizb55x5f3utp7vliv42y2yzyta7c4tsnyxev3e4/video.mp4|Referer=http://streamcloud.eu/25zcxvza3on4</link>
+<thumbnail>https://occ-0-990-987.1.nflxso.net/art/df0a8/297696ce5acd02fb75e6efd5f680a227b39df0a8.jpg</thumbnail>
+<info>Camila centra su atención en la carrera de caballos de los cárteles para obtener el dinero necesario para su negocio. Teresa se topa con un fantasma de su pasado.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]3. Un pacto con el diablo[/B]</title>
+<urlsolve>https://openload.co/embed/S5--NORBOR0</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/22d4b/ff7c487ca383c0d5be544c6040ec924150022d4b.jpg</thumbnail>
+<info>Un recuerdo revela lo que le sucedió al Güero hace tres meses. Teresa y James se embarcan en una arriesgada misión para destruir el túnel de contrabando de Epifanio.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]4. El beso de Judas[/B]</title>
+<link>http://s16.gamovideo.com:8777/p5ap5emrojnv3h2yuhr5r5kwopdpbbfjg54bds7akh6xe7ptnt2wssxhrasa/v.mp4|Referer=http://gamovideo.com/embed-wjcml9u2cesz-920x360.html</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/8bb06/24b1ccc166103dcad655cd5ff406163afc18bb06.jpg</thumbnail>
+<info>Tras enterarse de que la DEA tiene un informante, James tiende una trampa para descubrir quién es. Camila, Epifanio y Jiménez se reúnen en una boda en Sinaloa.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]5. El nacimiento de Bolivia[/B]</title>
+<link>http://stor66.streamcloud.eu:8080/h7v75wma4ooax3ptx3pizqpev6is7kw3hwpytvtkgolimgezfa2dylea7u/video.mp4|Referer=http://streamcloud.eu/tljgffbzw8hn</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/b5f90/4bb23af3364d9612de6b1eb7f62c54932acb5f90.jpg</thumbnail>
+<info>Teresa y sus compañeros viajan a Bolivia para encontrar al Santo, un consabido proveedor de drogas, pero la búsqueda se complica por un soldado que quiere vengarse.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]6. El camino de la muerte[/B]</title>
+<link>http://stor62.streamcloud.eu:8080/htv753ea4ooax3ptx3pizr7fw23lffskqguhk7zoor6le7ukrmvato3niu/video.mp4|Referer=http://streamcloud.eu/rmsaveng7cwz</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/74d64/a3698e49ec1195b5dc6e116c4faf14029f174d64.jpg</thumbnail>
+<info>Teresa se convierte en prisionera de un culto liderado por el Santo y se ve obligada a tomar una terrible decisión que hace que pierda el contacto con la realidad.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]7. El precio de fe[/B]</title>
+<link>http://stor62.streamcloud.eu:8080/htv75cua4ooax3ptx3pizuf2vfmx7gp55euxhjikblycjn37jmdo5jboym/video.mp4|Referer=http://streamcloud.eu/e2lur0qjmdf9</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/1b92b/cb3eeb60335b40e2bdad47ee79c8ffcec141b92b.jpg</thumbnail>
+<info>Epifanio detecta señales de alarma cerca de su hija. Camila y Teresa encuentran a un mafioso que puede mover una tonelada de coca, pero tendrán que robárselo a Epifanio.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+<item><title>[B]8. Sacar con sifón el mar[/B]</title>
+<link>http://stor64.streamcloud.eu:8080/hxv75hea4ooax3ptx3pizqf26lm7c4xgq6vyl5m4bnshqobrixy3kmm6nm/video.mp4|Referer=http://streamcloud.eu/u27p9bvssm5y</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/58728/3c25934921472e45e6f26f947c23c4550b558728.jpg</thumbnail>
+<info>Camila no acepta una respuesta negativa y envía a Teresa y al equipo a Chicago para darle una muestra de su cocaína al probador de Devon Finch.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]9. Solo el amor de una madre[/B]</title>
+<urlsolve>http://stor64.streamcloud.eu:8080/hxv75l4a4ooax3ptx3pizxho6hctxqvaofhynm7ejeedxhwqc755xj2r3i/video.mp4|Referer=http://streamcloud.eu/if46lufvg93f</urlsolve>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/89a1a/a85a7ba36004427006db3652bc143ca5d3589a1a.jpg</thumbnail>
+<info>Camila y Teresa se reúnen con Devon Finch para hacer un trato, sin saber que alguien las sigue. Epifanio le hace una propuesta a Boaz durante un funeral en Sinaloa.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]10. Que manden a los payasos[/B]</title>
+<link>http://stor61.streamcloud.eu:8080/gpv75pua4ooax3ptx3pizuh66dnrv5wuvlntfxq65kiqqmvj6otuuf4bjq/video.mp4|Referer=http://streamcloud.eu/ev52b6tqsjbe</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/77219/420d8b80b1b74df958a42f43542442216cc77219.jpg</thumbnail>
+<info>Mientras busca entre los documentos de su marido una prueba que incrimine a Camila, Kelly Ann encuentra algo que debe mostrarle a Teresa de inmediato.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]11. La noche oscura del alma[/B]</title>
+<link>http://stor64.streamcloud.eu:8080/hxv74rua4ooax3ptx3pizupavlpaiu5uprxi2beorqo5jjzw23wb4xc42m/video.mp|Referer=http://streamcloud.eu/dhojzse8f2k3</link>
+<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/2df23/709c37e25f1b65644f032a6a6bc66a9de5a2df23.jpg</thumbnail>
+<info>Después de que Teresa y Kelly Ann huyen, la lealtad de James es puesta a prueba. Un descuido le permite al agente Loya encontrar a las fugitivas.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+
+<item><title>[B]12. Todas las horas hieren[/B]</title>
+<link>http://s16.gamovideo.com:8777/p5ap4ruqojnv3h2yuhr5r5afeqb562xio23f3tqfdl2p74wf2hwkn7en56pa/v.mp4|Referer=http://gamovideo.com/embed-v94aele6wjip-920x360.html</link>
+<thumbnail>https://occ-0-901-1001.1.nflxso.net/art/fdec3/143c4c475e76fe1657da7e82dcf62fdac94fdec3.jpg</thumbnail>
+<info>Teresa reúne a un equipo para robarles la cocaína y el dinero a los hombres de Camila y así pagarle al Santo. Interrumpen la transferencia de Camila a otra prisión.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+<item><title>[B]13. La última hora mata[/B]</title>
+<link>http://stor66.streamcloud.eu:8080/h7v74xea4ooax3ptx3pizxfr6mdm5wmpbt2onjnl2zsre5mtzjkc2fqriq/video.mp4|Referer=http://streamcloud.eu/i96pzf0wnqfe</link>
+<thumbnail>https://occ-0-987-990.1.nflxso.net/art/4e71b/221b710488958d1d5341f7f655dfc312e084e71b.jpg</thumbnail>
+<info>Un video de Isabela revela una pista sobre su ubicación. Teresa recibe una sorpresa desagradable al ir a cobrar el pago de Devon Finch por la cocaína.</info>
+<fanart>https://image.tmdb.org/t/p/original/anZkWlGSCLo8wlIorBQwqHyuRxY.jpg</fanart>
+</item>
+
+
+
+</items>	
+		
+		
+		
+	</channel>
+	
+</channels>
