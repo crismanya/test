@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Bajo Presión [Mini serie] - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/wQbGMt0.jpg</thumbnail>
+		<info>Bajo presión es una serie de televisión brasileña coproducida por Conspiração Filmes y Rede Globo derivada de la película del mismo nombre, bajo la dirección de Andrucha Waddington. Es protagonizada por Júlio Andrade y Marjorie Estiano.</info>
+		<fanart>https://i.imgur.com/vLjORt3.png</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<urlsolve>https://openload.co/embed/RXiQ3DGs47E</urlsolve>
+<thumbnail>https://i.imgur.com/wQbGMt0.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/hTf6Jh6.jpg</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<urlsolve>https://openload.co/embed/LfmbzvhPAuc</urlsolve>
+<thumbnail>https://i.imgur.com/wQbGMt0.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/hTf6Jh6.jpg</fanart>
+</item>
+
+</items>
+
+	
+	</channel>
+	
+</channels>
