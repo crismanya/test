@@ -379,3 +379,13 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/rsu</externallink>
 </item>
+
+<item>
+    <title>[I]El Host[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>El gerente de un Hotel sufre un desengaño amoroso cuando Milagros el amor de su vida, lo deja en plena luna de miel. Al volver, Adrián se instala en la suite presidencial donde le tocará ocuparse del hotel y de su corazón destrozado a la vez, ya no quiere volver a su casa plagada de recuerdos.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/qZDOFA9pS6wDVNNGSueYflKTRkI.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/elh</externallink>
+</item>
+
