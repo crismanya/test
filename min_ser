@@ -419,3 +419,13 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/bjp</externallink>
 </item>
+
+
+<item>
+    <title>[I]La Fiesta[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>O Rebu (título internacional: La Fiesta) es una telenovela brasileña producida por la Rede Globo que se estrenó el 14 de julio de 2014. Basada en la telenovela homónima escrita por Bráulio Pedroso y producida en 1974, la nueva versión está escrita por George Moura y Sérgio Goldenberg, con la colaboración de Charles Peixoto, Flávio Araújo, Lucas Paraízo y Mariana Mesquita, dirigida por Paulo Silvestrini, Luisa Lima e Walter Carvalho y con la dirección general y núcleo de José Luiz Villamarim.</info>
+    <thumbnail>https://i.imgur.com/2TBDEOz.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/lfi</externallink>
+</item>
