@@ -373,6 +373,7 @@
 
 <item>
     <title>[I]Queen of the South (Reina del sur) (2016)[/I]</title>
+    <link>$doregex[makelist]</link>
     <info>Teresa huye de México después de que su novio narcotraficante sea asesinado. Se instala en España, donde busca convertirse en la contrabandista de drogas reinante del país y vengar el asesinato de su amante.</info>
     <thumbnail>https://image.tmdb.org/t/p/original/a4O7aYNwHpo1x7yYGyKTHrR9B7L.jpg</thumbnail>
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
