@@ -389,3 +389,13 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/elh</externallink>
 </item>
 
+
+<item>
+    <title>[I]Distrito Salvaje[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info>Jhon Jeiver (Juan Pablo Raba) es un guerrillero que escapa de la jungla tras la firma del Tratado de Paz Colombiano. Llega a Bogotá escapando de su pasado para intentar reinsertarse en la sociedad, mientras busca reconectarse con su familia. Pero rápidamente se encuentra envuelto en una red de crimen y corrupción, luchando por comprender las reglas de la jungla de asfalto, proteger a su familia de su pasado y enfrentándose al dilema moral de elegir de qué lado de la ley quiere estar.</info>
+    <thumbnail>https://image.tmdb.org/t/p/original/moBPlf6FSlMolYFhtH7w38Rsb2p.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/dslv</externallink>
+</item>
+
