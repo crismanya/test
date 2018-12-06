@@ -431,7 +431,7 @@
 </item>
 
 <item>
-    <title>[I]La dama de la Libertdad[/I]</title>
+    <title>[I]La dama de la Libertad[/I]</title>
     <link>$doregex[makelist]</link>
     <info>Liberdade, Liberdade (en español: La Dama de la Libertad) es una telenovela brasileña producida y exhibida por la Rede Globo entre 11 de abril y 4 de agosto de 2016. Fue la 6ª "novela de las once" exhibida por la emisora.</info>
     <thumbnail>https://i.imgur.com/bUkD4uJ.jpg</thumbnail>
@@ -439,4 +439,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/dml</externallink>
 </item>
 
+<item>
+    <title>[I]Partes de mí[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>https://i.imgur.com/c7aWhUU.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/part_mi</externallink>
+</item>
 
