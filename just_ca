@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+			
+	<channel>
+		<name>Justicia - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+		<info>Justicia es una miniserie producida por Rede Globo, escrita por Manuela Dias y dirigida por José Luiz Villamarim. Es protagonizada por Jesuíta Barbosa, Adriana Esteves, Jéssica Ellen y Cauã Reymond.</info>
+		<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<link>https://cs833411.vkuservideo.net/video/hls/6/u185146112/videos/ae7c67bfe7/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<link>https://cs832403.vkuservideo.net/video/hls/0/u185146112/videos/9c395cd918/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<link>https://cs833203.vkuservideo.net/video/hls/7/u185146112/videos/c88c824d8e/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]4. Capítulo 4[/B]</title>
+<link>https://cs831605.vkuservideo.net/video/hls/7/u185146112/videos/a4510fa7d2/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+	
+<item><title>[B]5. Capítulo 5[/B]</title>
+<link>https://cs832301.vkuservideo.net/video/hls/0/u185146112/videos/4fb288b6b3/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]6. Capítulo 6[/B]</title>
+<link>https://cs832403.vkuservideo.net/video/hls/3/u185146112/videos/f29e28b6b7/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]7. Capítulo 7[/B]</title>
+<link>https://cs833304.vkuservideo.net/video/hls/7/u185146112/videos/1d659a6360/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]8. Capítulo 8[/B]</title>
+<link>https://cs832401.vkuservideo.net/video/hls/0/u185146112/videos/a4afb51b7b/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]9. Capítulo 9[/B]</title>
+<link>https://cs833100.vkuservideo.net/video/hls/3/u185146112/videos/b9834a52ab/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]10. Capítulo 10[/B]</title>
+<link>https://cs833402.vkuservideo.net/video/hls/5/u185146112/videos/b4202f9b9b/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]11. Capítulo 11[/B]</title>
+<link>https://cs832301.vkuservideo.net/video/hls/5/u185146112/videos/833456765f/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]12. Capítulo 12[/B]</title>
+<link>https://cs833201.vkuservideo.net/video/hls/1/u185146112/videos/9e2b5364e9/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]13. Capítulo 13[/B]</title>
+<link>https://cs833303.vkuservideo.net/video/hls/1/u185146112/videos/80d8c2d748/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]14. Capítulo 14[/B]</title>
+<link>https://cs832201.vkuservideo.net/video/hls/3/u185146112/videos/3d98720edc/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+	
+<item><title>[B]15. Capítulo 15[/B]</title>
+<link>https://cs832301.vkuservideo.net/video/hls/2/u185146112/videos/19d7a91e63/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+<item><title>[B]16. Capítulo 16[/B]</title>
+<link>https://cs833304.vkuservideo.net/video/hls/2/u185146112/videos/e0f065c33c/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Uau7YKa.png</fanart>
+</item>
+
+
+	</items>
+
+	
+	</channel>
+	
+</channels>
