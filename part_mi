@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Partes de mí - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/c7aWhUU.jpg</thumbnail>
+		<info>Partes de mí es una telenovela brasileña de 2015, escrita por Lícia Manzo y Daniel Adjafre y dirigida por Jayme Monjardim. Es protagonizada por Domingos Montagner, Débora Bloch, Jayme Matarazzo e Isabelle Drummond.</info>
+		<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<link>https://cs635907.vkuservideo.net/3/u185146112/videos/e1181ec868.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<link>https://cs635806.vkuservideo.net/0/u185146112/videos/dc0cf36738.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<link>https://cs635500.vkuservideo.net/7/u185146112/videos/8245635d0d.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]4. Capítulo 4[/B]</title>
+<link>https://cs635603.vkuservideo.net/3/u185146112/videos/9d8013a137.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+	
+<item><title>[B]5. Capítulo 5[/B]</title>
+<link>https://cs635704.vkuservideo.net/6/u185146112/videos/66713edfcb.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]6. Capítulo 6[/B]</title>
+<link>https://cs635604.vkuservideo.net/6/u185146112/videos/7033988463.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]7. Capítulo 7[/B]</title>
+<link>https://cs632305.vkuservideo.net/0/u185146112/videos/c7b54ac975.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]8. Capítulo 8[/B]</title>
+<link>https://cs635701.vkuservideo.net/4/u185146112/videos/4463e5cd76.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]9. Capítulo 9[/B]</title>
+<urlsolve>https://openload.co/f/BrsxolB2t3c</urlsolve>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]10. Capítulo 10[/B]</title>
+<link>https://cs635701.vkuservideo.net/1/u185146112/videos/61f3f2c7d8.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]11. Capítulo 11[/B]</title>
+<link>https://cs632403.vkuservideo.net/8/u185146112/videos/7fce49b56d.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]12. Capítulo 12[/B]</title>
+<link>https://cs632307.vkuservideo.net/6/u185146112/videos/3440577ef5.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]13. Capítulo 13[/B]</title>
+<link>https://cs635703.vkuservideo.net/2/u185146112/videos/670e4d8119.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]14. Capítulo 14[/B]</title>
+<link>https://cs632507.vkuservideo.net/1/u185146112/videos/14a78215d5.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+	
+<item><title>[B]15. Capítulo 15[/B]</title>
+<link>https://cs632506.vkuservideo.net/4/u185146112/videos/47151246e0.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]16. Capítulo 16[/B]</title>
+<link>https://cs632204.vkuservideo.net/7/u185146112/videos/387cad3c58.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]17. Capítulo 17[/B]</title>
+<link>https://cs632303.vkuservideo.net/2/u185146112/videos/270e0fa9a1.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]18. Capítulo 18[/B]</title>
+<link>https://cs632304.vkuservideo.net/8/u185146112/videos/3f2585f5b9.360.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]19. Capítulo 19[/B]</title>
+<link>https://cs632406.vkuservideo.net/7/u185146112/videos/6816c98965.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]20. Capítulo 20[/B]</title>
+<link>https://cs635504.vkuservideo.net/2/u185146112/videos/62009a9e6d.360.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]21. Capítulo 21[/B]</title>
+<link>https://cs632405.vkuservideo.net/2/u185146112/videos/5224e9b7fc.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]22. Capítulo 22[/B]</title>
+<link>https://cs632601.vkuservideo.net/1/u185146112/videos/8a6f5851e2.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]23. Capítulo 23[/B]</title>
+<link>https://cs632106.vkuservideo.net/6/u185146112/videos/b974078164.480.mp4/</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]24. Capítulo 24[/B]</title>
+<link>https://cs632602.vkuservideo.net/0/u185146112/videos/15068f75b4.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+	
+<item><title>[B]25. Capítulo 25[/B]</title>
+<link>https://cs632600.vkuservideo.net/8/u185146112/videos/8bfd98ce6e.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]26. Capítulo 26[/B]</title>
+<link>https://cs632306.vkuservideo.net/6/u185146112/videos/c7d19d7ec4.360.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]27. Capítulo 27[/B]</title>
+<link>https://cs632404.vkuservideo.net/5/u185146112/videos/a14d148fe7.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]28. Capítulo 28[/B]</title>
+<link>https://cs632203.vkuservideo.net/2/u185146112/videos/1f1359e12e.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]29. Capítulo 29[/B]</title>
+<link>https://cs632300.vkuservideo.net/7/u185146112/videos/3ed34fb606.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]30. Capítulo 30[/B]</title>
+<link>https://cs632501.vkuservideo.net/4/u185146112/videos/2b482b250b.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+
+<item><title>[B]31. Capítulo 31[/B]</title>
+<link>https://cs632506.vkuservideo.net/3/u185146112/videos/42450f8f5f.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]32. Capítulo 32[/B]</title>
+<link>https://cs632601.vkuservideo.net/8/u185146112/videos/c628d6fa4f.480.mp</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]33. Capítulo 33[/B]</title>
+<link>https://cs632201.vkuservideo.net/3/u185146112/videos/005938bba4.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]34. Capítulo 34[/B]</title>
+<link>https:https://cs632400.vkuservideo.net/7/u185146112/videos/60a3374517.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+	
+<item><title>[B]35. Capítulo 35[/B]</title>
+<link>https://cs632103.vkuservideo.net/3/u185146112/videos/79a7bf6f78.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]36. Capítulo 36[/B]</title>
+<link>https://cs632602.vkuservideo.net/0/u185146112/videos/d8facee9cf.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]37. Capítulo 37[/B]</title>
+<link>https://cs632104.vkuservideo.net/5/u185146112/videos/3578937b45.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]38. Capítulo 38[/B]</title>
+<link>https://cs632301.vkuservideo.net/4/u185146112/videos/c80ead866d.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]39. Capítulo 39[/B]</title>
+<link>https://cs632106.vkuservideo.net/4/u185146112/videos/c8993bf82b.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]40. Capítulo 40[/B]</title>
+<link>https://cs632203.vkuservideo.net/2/u185146112/videos/2ba1a7f97b.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+
+<item><title>[B]41. Capítulo 41[/B]</title>
+<link>https://cs632505.vkuservideo.net/1/u185146112/videos/a15f3d5f67.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]42. Capítulo 42[/B]</title>
+<link>https://cs632406.vkuservideo.net/2/u185146112/videos/1f4eeb8445.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]43. Capítulo 43[/B]</title>
+<link>https://cs632400.vkuservideo.net/6/u185146112/videos/a1ee34b173.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+<item><title>[B]44. Capítulo 44[/B]</title>
+<link>https://cs632103.vkuservideo.net/8/u185146112/videos/cf3c79a403.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
+	
+<item><title>[B]45. Capítulo 45 - Final[/B]</title>
+<link>https://cs632304.vkuservideo.net/0/u185146112/videos/d476f6f386.480.mp4</link>
+<thumbnail>https://i.imgur.com/tdbiMEE.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/BQkIjNC.jpg</fanart>
+</item>
+
