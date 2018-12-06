@@ -448,3 +448,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/part_mi</externallink>
 </item>
 
+<item>
+    <title>[I]Justicia[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>https://i.imgur.com/Sy8MNRp.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/just_ca</externallink>
+</item>
+
