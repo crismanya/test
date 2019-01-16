@@ -457,3 +457,12 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/just_ca</externallink>
 </item>
 
+<item>
+    <title>[I]Carceleros[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>http://www.locall.com.br/wp-content/uploads/2017/11/CARCEREIRO.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/carc_l</externallink>
+</item>
+
