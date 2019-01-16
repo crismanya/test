@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Carceleros - Temporada 1</name>
+		<thumbnail>http://www.locall.com.br/wp-content/uploads/2017/11/CARCEREIRO.jpg</thumbnail>
+		<info>Carceleros es una serie producida por Rede Globo, escrita por Fernando Bonassi, Marçal Aquino y Dennison Ramalho bajo la dirección de José Eduardo Belmonte. Es protagonizada por Rodrigo Lombardi.</info>
+		<fanart>https://i.imgur.com/8glv1bl.png</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<urlsolve>https://openload.co/embed/hcf0zzM6jQs/</urlsolve>
+<thumbnail>http://www.locall.com.br/wp-content/uploads/2017/11/CARCEREIRO.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/8glv1bl.png</fanart>
+</item>
