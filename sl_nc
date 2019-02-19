@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+
+
+
+			
+	<channel>
+		<name>Sol Naciente - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+		<info>Sol naciente es una telenovela producida y transmitida por la Rede Globo, escrita por Walther Negrão, Suzana Pires y Júlio Fischer bajo la dirección de Leonardo Nogueira. </info>
+		<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+        
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<urlsolve>https://openload.co/embed/5s6qEUJfPeU/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<urlsolve>https://openload.co/embed/f1yNaXSoEJc/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<urlsolve>https://openload.co/embed/wj_Ua5nQsDU/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]4. Capítulo 4[/B]</title>
+<urlsolve>https://openload.co/embed/06i4cPsHPXo/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+	
+<item><title>[B]5. Capítulo 5[/B]</title>
+<urlsolve>https://openload.co/embed/NA9O9jOUyCg/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]6. Capítulo 6[/B]</title>
+<urlsolve>https://openload.co/embed/SYTyYfrmT4E/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]7. Capítulo 7[/B]</title>
+<urlsolve>https://openload.co/embed/I67La5c8WdA/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]8. Capítulo 8[/B]</title>
+<urlsolve>https://openload.co/embed/I67La5c8WdA/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]9. Capítulo 9[/B]</title>
+<urlsolve>https://openload.co/embed/V1HgQ3pkxTM/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]10. Capítulo 10[/B]</title>
+<urlsolve>https://openload.co/embed/NEeul8jEZDQ/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]11. Capítulo 11[/B]</title>
+<urlsolve>https://openload.co/embed/o5E2bC8soBI/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]12. Capítulo 12 [No disp][/B]</title>
+<urlsolve>https://cs632307.vkuservideo.net/video/hls/6/u185146112/videos/3440577ef5/index-f3-v1-a1.m3u8</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]13. Capítulo 13[/B]</title>
+<urlsolve>https://openload.co/embed/Kzi8O34Lfac/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]14. Capítulo 14[/B]</title>
+<urlsolve>https://openload.co/embed/_0YYvktfQHs/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+	
+<item><title>[B]15. Capítulo 15[/B]</title>
+<urlsolve>https://openload.co/embed/ZrAQQxh2kZ0/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]16. Capítulo 16[/B]</title>
+<urlsolve>https://openload.co/embed/whWOksxcJh0/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]17. Capítulo 17[/B]</title>
+<urlsolve>https://openload.co/embed/cMYoYTdlQ7s/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]18. Capítulo 18 [No disp][/B]</title>
+<urlsolve>https://cs632304.vkuservideo.net/video/hls/8/u185146112/videos/3f2585f5b9/index-f2-v1-a1.m3u8</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]19. Capítulo 19[/B]</title>
+<urlsolve>https://openload.co/embed/Wxaxd1z_ynE/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]20. Capítulo 20[/B]</title>
+<urlsolve>https://openload.co/embed/cX7IaHGH3Ag/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]21. Capítulo 21[/B]</title>
+<urlsolve>https://openload.co/embed/JcHLX-dFii8/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]22. Capítulo 22[/B]</title>
+<urlsolve>https://openload.co/embed/m9rRNvXKUG8/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]23. Capítulo 23[/B]</title>
+<urlsolve>https://openload.co/embed/USZA8_YxLT4/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]24. Capítulo 24[/B]</title>
+<urlsolve>https://openload.co/embed/c2hmeW0E41Q/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+	
+<item><title>[B]25. Capítulo 25[/B]</title>
+<urlsolve>https://openload.co/embed/9mhPT3Sbcic/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]26. Capítulo 26[/B]</title>
+<urlsolve>https://openload.co/embed/h6jKEULhnQI/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]27. Capítulo 27[/B]</title>
+<urlsolve>https://openload.co/embed/cV7ZNO-L5PE/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info>info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+<item><title>[B]28. Capítulo 28[/B]</title>
+<urlsolve>https://openload.co/embed/98eBHH4HHHg/</urlsolve>
+<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+</items>
+
+	
+	</channel>
+	
+</channels>
