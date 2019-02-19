@@ -466,3 +466,20 @@
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/carc_l</externallink>
 </item>
 
+<item>
+    <title>[I]Sol Naciente[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>https://i.imgur.com/SL3d0A1.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/sl_nc</externallink>
+</item>
+
+<item>
+    <title>[I]El otro lado del paraíso[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>https://i.imgur.com/YOxluhd.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/del_ot</externallink>
+</item>
