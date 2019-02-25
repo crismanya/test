@@ -483,3 +483,12 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/del_ot</externallink>
 </item>
+
+<item>
+    <title>[I]Ojos sin culpa[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>https://i.imgur.com/C9yoTpf.jpg</thumbnail>
+    <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/oj_c</externallink>
+</item>
