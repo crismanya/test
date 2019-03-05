@@ -21,6 +21,16 @@
 		<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
         
 		<items>
+			
+			
+			<item>
+				<title>[B]0.Trailer oficial[/B]</title>
+				 <link>plugin://plugin.video.youtube/play/?video_id=ZGAAyHgZrWM</link>
+				<thumbnail>https://i.imgur.com/417T8RM.jpg</thumbnail>
+				<fanart>https://i.imgur.com/Fy3cYHk.jpg</fanart>
+			</item>
+			
+			
 
 <item><title>[B]1. Capítulo 1[/B]</title>
 <urlsolve>https://openload.co/embed/5s6qEUJfPeU/</urlsolve>
