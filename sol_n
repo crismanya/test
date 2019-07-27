@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Nuevo Sol - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/T2sv0ov.jpg</thumbnail>
+		<info></info>
+		<fanart>https://i.imgur.com/nCvVXsr.png</fanart>
+         
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/1.mp4</link>
+<thumbnail>https://i.imgur.com/T2sv0ov.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/nCvVXsr.png</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/2.mp4</link>
+<thumbnail>https://i.imgur.com/T2sv0ov.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/nCvVXsr.png</fanart>
+</item>
