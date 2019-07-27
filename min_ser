@@ -492,3 +492,12 @@
     <fanart>https://i.imgur.com/GAvcj48.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/crismanya/test/master/oj_c</externallink>
 </item>
+
+<item>
+    <title>[I]Nuevo Sol[/I]</title>
+    <link>$doregex[makelist]</link>
+    <info></info>
+    <thumbnail>https://i.imgur.com/T2sv0ov.jpg</thumbnail>
+    <fanart>https://i.imgur.com/nCvVXsr.png</fanart>
+    <externallink>https://raw.githubusercontent.com/crismanya/test/master/sol_n</externallink>
+</item>
