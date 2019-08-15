@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?> 
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>C.G.T</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Television</genre>
+      <description></description>
+      <date>2018</date>
+      <credits>Cris.T</credits>
+    </channels_info>
+			
+	
+
+
+
+			
+	<channel>
+		<name>Orgullo y Pasión - Temporada 1</name>
+		<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+		<info></info>
+		<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+         
+		<items>
+
+<item><title>[B]1. Capítulo 1[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op1.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>
+
+<item><title>[B]2. Capítulo 2[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op2.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>
+			
+			
+			
+
+<item><title>[B]3. Capítulo 3[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op3.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>
+			
+			
+			
+<item><title>[B]4. Capítulo 4[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op4.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>
+			
+			
+<item><title>[B]5. Capítulo 5[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op5.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>
+			
+<item><title>[B]6. Capítulo 6[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op6.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>
+			
+<item><title>[B]7. Capítulo 7[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op7.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+
+<item><title>[B]8. Capítulo 8[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op8.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+		
+		
+<item><title>[B]9. Capítulo 9[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op9.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>		
+	
+	
+<item><title>[B]10. Capítulo 10[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op10.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>		
+
+
+
+<item><title>[B]11. Capítulo 11[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op11.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]12. Capítulo 12[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op12.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>		
+		
+<item><title>[B]13. Capítulo 13[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op13.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>		
+
+
+<item><title>[B]14. Capítulo 14[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op14.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>		
+		
+
+<item><title>[B]15. Capítulo 15[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op15.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]16. Capítulo 16[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op16.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]17. Capítulo 17[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op17.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]18. Capítulo 18[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op18.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]19. Capítulo 19[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op19.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]20. Capítulo 20[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op20.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]21. Capítulo 21[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op21.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]22. Capítulo 22[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op22.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]23. Capítulo 23[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op23.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]24. Capítulo 24[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op24.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+
+<item><title>[B]25. Capítulo 25[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op25.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]26. Capítulo 26[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op26.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]27. Capítulo 27[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op27.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]28. Capítulo 28[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op28.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+
+<item><title>[B]29. Capítulo 29[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op29.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+
+<item><title>[B]30. Capítulo 30[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op30.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]31. Capítulo 31[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op31.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+
+<item><title>[B]32. Capítulo 32[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op32.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+
+<item><title>[B]33. Capítulo 33[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op33.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+
+
+<item><title>[B]34. Capítulo 34[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op34.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+<item><title>[B]35. Capítulo 35[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op35.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>		
+	
+<item><title>[B]36. Capítulo 36[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op36.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+			
+<item><title>[B]37. Capítulo 37[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op37.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>				
+					
+			
+<item><title>[B]38. Capítulo 38[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op38.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+			
+			
+<item><title>[B]39. Capítulo 39[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op39.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>	
+			
+			
+<item><title>[B]40. Capítulo 40[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op40.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>				
+
+			
+			<item><title>[B]41. Capítulo 41[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op41.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]42. Capítulo 42[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op42.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]43. Capítulo 43[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op43.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]44. Capítulo 44[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op44.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]45. Capítulo 45[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op45.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]46. Capítulo 46[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op46.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			
+			<item><title>[B]47. Capítulo 47[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op47.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]48. Capítulo 48[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op48.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]49. Capítulo 49[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op49.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+			
+			
+			
+			<item><title>[B]50. Capítulo 50[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op50.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+						<item><title>[B]51. Capítulo 51[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op51.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]52. Capítulo 52[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op52.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]53. Capítulo 53[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op53.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]54. Capítulo 54[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op54.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]55. Capítulo 55[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op55.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]56. Capítulo 56[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op56.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]57. Capítulo 57[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op57.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]58. Capítulo 58[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op58.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+						<item><title>[B]59. Capítulo 59[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op59.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]60. Capítulo 60[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op60.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]61. Capítulo 61[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op61.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]62. Capítulo 62[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op62.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]63. Capítulo 63[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op63.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]64. Capítulo 64[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op64.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]65. Capítulo 65[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op65.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+						<item><title>[B]66. Capítulo 66[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op66.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]67. Capítulo 67[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op67.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]68. Capítulo 68[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op68.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]69. Capítulo 69[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op69.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+			
+			
+						<item><title>[B]70. Capítulo 70[/B]</title>
+<link>https://archive.org/download/1_20190726_20190726_1843/op70.mp4</link>
+<thumbnail>https://i.imgur.com/H6yBX5C.jpg</thumbnail>
+<info></info>
+<fanart>https://i.imgur.com/4ygusZI.jpg</fanart>
+</item>			
+
+</items>
+
+	
+	</channel>
+	
+</channels>
